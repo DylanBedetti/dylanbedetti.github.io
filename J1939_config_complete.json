@@ -1,0 +1,9086 @@
+{
+   "EngnOverrideCtrlMode": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnReqedSpdCtrlConds": {
+       "unit": null,
+       "visualise": 0
+   },
+   "OverrideCtrlModePriority": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnReqedSpd\/SpdLmt": {
+       "unit": "rpm",
+       "visualise": 0
+   },
+   "EngnReqedTrq\/TrqLmt": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "TSC1TransRate": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TSC1CtrlPurpose": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnReqedTrq-HiRes": {
+       "unit": null,
+       "visualise": 0
+   },
+   "MsgCnt": {
+       "unit": null,
+       "visualise": 0
+   },
+   "MsgChecksum": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransGearShiftInhibitReq": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransTrqConverterLockupDisableReq": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DisengageDrvlineReq": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransReverseGearShiftInhibitReq": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ReqedPctClutchSlip": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "TransReqedGear": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DisengageDiffLockReq-FrontAxle1": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DisengageDiffLockReq-FrontAxle2": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DisengageDiffLockReq-RearAxle1": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DisengageDiffLockReq-RearAxle2": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DisengageDiffLockReq-Central": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DisengageDiffLockReq-CentralFront": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DisengageDiffLockReq-CentralRear": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransMode1": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransMode2": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransMode3": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransMode4": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransReqedLaunchGear": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransShiftSelDisplayModeSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransMode5": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransMode6": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransMode7": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransMode8": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ExtAccelerationDemand": {
+       "unit": "m\/s²",
+       "visualise": 0
+   },
+   "XBREBIMode": {
+       "unit": null,
+       "visualise": 0
+   },
+   "XBRPriority": {
+       "unit": null,
+       "visualise": 0
+   },
+   "XBRCtrlMode": {
+       "unit": null,
+       "visualise": 0
+   },
+   "XBRurgency": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "XBRMsgCnt": {
+       "unit": null,
+       "visualise": 0
+   },
+   "XBRMsgChecksum": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ValveLoadSensePres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "ValvePilotPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "ValveAssemblyLoadsensePres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "ValveAssemblySupplyPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "AuxI\/OChan#6": {
+       "unit": "counts",
+       "visualise": 0
+   },
+   "AuxI\/OChan#5": {
+       "unit": "counts",
+       "visualise": 0
+   },
+   "AuxI\/OChan#4": {
+       "unit": "counts",
+       "visualise": 0
+   },
+   "AuxI\/OChan#3": {
+       "unit": "counts",
+       "visualise": 0
+   },
+   "DataDictionaryManufacturerCode": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DataDictionaryMethod": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/OChan#18": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/OChan#17": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/OChan#16": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/OChan#15": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/OChan#22": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/OChan#21": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/OChan#20": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/OChan#19": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/OChan#10": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/OChan#9": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/OChan#8": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/OChan#7": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/OChan#14": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/OChan#13": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/OChan#12": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/OChan#11": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#84": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#83": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#82": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#81": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#88": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#87": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#86": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#85": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#92": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#91": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#90": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#89": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#96": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#95": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#94": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#93": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#100": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#99": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#98": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#97": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#104": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#103": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#102": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#101": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#108": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#107": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#106": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#105": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#112": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#111": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#110": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#109": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#52": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#51": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#50": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#49": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#56": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#55": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#54": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#53": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#60": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#59": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#58": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#57": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#64": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#63": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#62": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#61": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#68": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#67": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#66": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#65": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#72": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#71": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#70": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#69": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#76": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#75": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#74": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#73": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#80": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#79": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#78": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#77": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#20": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#19": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#18": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#17": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#24": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#23": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#22": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#21": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#28": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#27": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#26": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#25": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#32": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#31": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#30": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#29": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#36": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#35": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#34": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#33": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#40": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#39": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#38": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#37": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#44": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#43": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#42": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#41": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#48": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#47": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#46": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#45": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TextDisplayInstructions": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TextDisplayIndex": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LaneDepartureWarnEnblCmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TireLoc": {
+       "unit": null,
+       "visualise": 0
+   },
+   "RefTirePresSetting": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnSpdLmtReq-MinCont": {
+       "unit": "rpm",
+       "visualise": 0
+   },
+   "EngnSpdLmtReq-MaxCont": {
+       "unit": "rpm",
+       "visualise": 0
+   },
+   "EngnTrqLmtReq-MinCont": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnTrqLmtReq-MaxCont": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "MinContRetrdrSpdLmtReq": {
+       "unit": "rpm",
+       "visualise": 0
+   },
+   "MaxContRetrdrSpdLmtReq": {
+       "unit": "rpm",
+       "visualise": 0
+   },
+   "MinContRetrdrTrqLmtReq": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "MaxContRetrdrTrqLmtReq": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "IlluminationBrightnessPct": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "LvlPresetFrontAxleLeft": {
+       "unit": "mm",
+       "visualise": 0
+   },
+   "LvlPresetFrontAxleRight": {
+       "unit": "mm",
+       "visualise": 0
+   },
+   "LvlPresetRearAxleLeft": {
+       "unit": "mm",
+       "visualise": 0
+   },
+   "LvlPresetRearAxleRight": {
+       "unit": "mm",
+       "visualise": 0
+   },
+   "Automatictractionhelp(loadtransfer)": {
+       "unit": null,
+       "visualise": 0
+   },
+   "KneelingReqLeftSide": {
+       "unit": null,
+       "visualise": 0
+   },
+   "KneelingReqRightSide": {
+       "unit": null,
+       "visualise": 0
+   },
+   "KneelingCtrlModeReq": {
+       "unit": null,
+       "visualise": 0
+   },
+   "NomLvlReqFrontAxle": {
+       "unit": null,
+       "visualise": 0
+   },
+   "NomLvlReqRearAxle": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LvlCtrlModeReq": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LiftAxle1PosCmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LiftAxle2PosCmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DamperStiffnessReqFrontAxle": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "DamperStiffnessReqRearAxle": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "DamperStiffnessReqLift\/TagAxle": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "KneelingCmd-FrontAxle": {
+       "unit": null,
+       "visualise": 0
+   },
+   "KneelingCmd-RearAxle": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Prohibitairsuspensioncontrol": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Adjustseconds": {
+       "unit": "s",
+       "visualise": 0
+   },
+   "Adjustminutes": {
+       "unit": "mins",
+       "visualise": 0
+   },
+   "Adjusthours": {
+       "unit": "hr",
+       "visualise": 0
+   },
+   "Adjustmonth": {
+       "unit": "months",
+       "visualise": 0
+   },
+   "Adjustday": {
+       "unit": "days",
+       "visualise": 0
+   },
+   "Adjustyear": {
+       "unit": "years",
+       "visualise": 0
+   },
+   "Adjustlocalminuteoffset": {
+       "unit": "mins",
+       "visualise": 0
+   },
+   "Adjustlocalhouroffset": {
+       "unit": "hr",
+       "visualise": 0
+   },
+   "Anti-theftEncryptionSeedPresentInd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Anti-theftPasswordValidInd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Anti-theftComponentStatStates": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Anti-theftModifyPasswordStates": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Anti-theftRandomNum": {
+       "unit": "byte",
+       "visualise": 0
+   },
+   "Anti-theftEncryptionIndStates": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Anti-theftDesiredExitModeStates": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Anti-theftCmdStates": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Anti-theftPasswordRepresentation": {
+       "unit": "byte",
+       "visualise": 0
+   },
+   "TripGrp1": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TripGrp2-Proprietary": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ServiceComponentId": {
+       "unit": "ID",
+       "visualise": 0
+   },
+   "EngnBuildHoursReset": {
+       "unit": null,
+       "visualise": 0
+   },
+   "SteerStraightAheadPosReset": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ReqedPctFanSpd": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "CabInteriorTempCmd": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "AuxHeaterCoolPumpReq": {
+       "unit": null,
+       "visualise": 0
+   },
+   "BattMainSwchHoldReq": {
+       "unit": null,
+       "visualise": 0
+   },
+   "OprSeatDirSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "SeatBeltSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "VehLmtingSpdGovDecSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "VehLmtingSpdGovIncSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "VehLmtingSpdGovEnblSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DieselPartFiltRegenInhibitSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DieselPartFiltRegenForceSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AutomaticGearShiftingEnblSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnAutomaticStartEnblSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxHeaterModeReq": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ReqEngnZoneHeating": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ReqCabZoneHeating": {
+       "unit": null,
+       "visualise": 0
+   },
+   "SeledMaxVehSpdLmt": {
+       "unit": null,
+       "visualise": 0
+   },
+   "RetrdrTrqMode": {
+       "unit": null,
+       "visualise": 0
+   },
+   "RetrdrEnbl-BrakeAssistSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "RetrdrEnbl-ShiftAssistSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ActualRetrdr-PctTrq": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "IntendedRetrdrPctTrq": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCoolLoadIncrease": {
+       "unit": null,
+       "visualise": 0
+   },
+   "RetrdrReqingBrakeLight": {
+       "unit": null,
+       "visualise": 0
+   },
+   "RetrdrRoadSpdLmtSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "RetrdrRoadSpdExceededStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "SourceAddressofCtrllingDeviceforRetrdrCtrl": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DrvrsDemandRetrdr-PctTrq": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "RetrdrSelion,non-engine": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "ActualMaxAvailableRetrdr-PctTrq": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "ASREngnCtrlActive": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ASRBrakeCtrlActive": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Anti-LockBraking(ABS)Active": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EBSBrakeSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "BrakePedalPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "ABSOff-roadSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ASROff-roadSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ASRHillHolderSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TractionCtrlOverrideSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AccelInterlockSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnDerateSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnAuxShutdownSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "RemAccelEnblSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnRetrdrSelion": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "ABSFullyOperational": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EBSRedWarnSig": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ABS\/EBSAmberWarnSig(PwredVeh)": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ATC\/ASRInfoSig": {
+       "unit": null,
+       "visualise": 0
+   },
+   "SourceAddressofCtrllingDeviceforBrakeCtrl": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Haltbrakeswitch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TrailerABSStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Tractor-MountedTrailerABSWarnSig": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransDrvlineEngaged": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransTrqConverterLockupEngaged": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransShiftInProcess": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransOutShaftSpd": {
+       "unit": "rpm",
+       "visualise": 0
+   },
+   "PctClutchSlip": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnMomentaryOverspeedEnbl": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ProgressiveShiftDisable": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransInShaftSpd": {
+       "unit": "rpm",
+       "visualise": 0
+   },
+   "SourceAddressofCtrllingDeviceforTransCtrl": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AccelPedal1LoIdleSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AccelPedalKickdownSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "RoadSpdLmtStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AccelPedal2LoIdleSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AccelPedalPos1": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnPctLoadAtCurrSpd": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "RemAccelPedalPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "AccelPedalPos2": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "VehAccelerationRateLmtStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ActualMaxAvailableEngn-PctTrq": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnTrqMode": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ActualEngn-PctTrqHiRes": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Drvr'sDemandEngn-PctTrq": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "ActualEngn-PctTrq": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnSpd": {
+       "unit": "rpm",
+       "visualise": 0
+   },
+   "SourceAddressofCtrllingDeviceforEngnCtrl": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnStarterMode": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnDemand–PctTrq": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "TransSeledGear": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransActualGearRatio": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransCurrGear": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransReqedRange": {
+       "unit": "byte",
+       "visualise": 0
+   },
+   "TransCurrRange": {
+       "unit": "byte",
+       "visualise": 0
+   },
+   "Loc": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DiffLockState-FrontAxle1": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DiffLockState-FrontAxle2": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DiffLockState-RearAxle1": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DiffLockState-RearAxle2": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DiffLockState-Central": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DiffLockState-CentralFront": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DiffLockState-CentralRear": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Frontaxlegroupengagementstatus": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Rearaxlegroupengagementstatus": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LaneDepartureLeft": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LaneDepartureRight": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LaneDepartureImminent,RightSide": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LaneDepartureImminent,LeftSide": {
+       "unit": null,
+       "visualise": 0
+   },
+   "HydrPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnHydrPresGovModeInd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnHydrPresGovSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "FireApparatusPumpEngagement": {
+       "unit": null,
+       "visualise": 0
+   },
+   "SteerWheelAngle": {
+       "unit": "rad",
+       "visualise": 0
+   },
+   "SteerWheelTurnCnt": {
+       "unit": "turns",
+       "visualise": 0
+   },
+   "SteerWheelAngleSensorType": {
+       "unit": null,
+       "visualise": 0
+   },
+   "YawRate": {
+       "unit": "rad\/s",
+       "visualise": 0
+   },
+   "LateralAcceleration": {
+       "unit": "m\/s²",
+       "visualise": 0
+   },
+   "LongitudinalAcceleration": {
+       "unit": "m\/s²",
+       "visualise": 0
+   },
+   "EngnExhGasRecirculation(EGR)MassFlowRate": {
+       "unit": "kg\/h",
+       "visualise": 0
+   },
+   "EngnInletAirMassFlowRate": {
+       "unit": "kg\/h",
+       "visualise": 0
+   },
+   "ActualInnerwheelsteeringangle": {
+       "unit": "deg",
+       "visualise": 0
+   },
+   "AxleLoc": {
+       "unit": null,
+       "visualise": 0
+   },
+   "StatofSteerAxle": {
+       "unit": null,
+       "visualise": 0
+   },
+   "SteerableLiftAxleLoeringInhibit": {
+       "unit": null,
+       "visualise": 0
+   },
+   "SteerType": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TypeofSteerForces": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TypeofSteerTrans": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransTrqConverterRatio": {
+       "unit": null,
+       "visualise": 0
+   },
+   "BladeCtrlModeSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DesiredGradeOffsetSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "BladeAutoModeCmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LeftBladeCtrlModeOprCtrl": {
+       "unit": null,
+       "visualise": 0
+   },
+   "RightBladeCtrlModeOprCtrl": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LeftDesiredBladeOffsetOprCtrl": {
+       "unit": null,
+       "visualise": 0
+   },
+   "RightDesiredBladeOffsetOprCtrl": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Side-shiftBladeCtrlModeOprCtrl": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Side-shiftDesiredBladeOffsetOprCtrl": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1IntakeNOx": {
+       "unit": "ppm",
+       "visualise": 0
+   },
+   "Aftrtrmnt1Intake%O2": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1IntakeGasSensorPwrInRange": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1IntakeGasSensoratTemp": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1IntakeNOxReadingStable": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1IntakeWide-Range%O2ReadingStable": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1IntakeGasSensorHeaterPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1IntakeGasSensorHeaterCtrl": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1IntakeNOxSensorPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1IntakeOxygenSensorPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1OutletNOx": {
+       "unit": "ppm",
+       "visualise": 0
+   },
+   "Aftrtrmnt1Outlet%O2": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1OutletGasSensorPwrInRange": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1OutletGasSensoratTemp": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1OutletNOxReadingStable": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1OutletWide-Range%O2ReadingStable": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1OutletGasSensorHeaterPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1OutletGasSensorHeaterCtrl": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1OutletNOxSensorPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1OutletOxygenSensorPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2IntakeNOx": {
+       "unit": "ppm",
+       "visualise": 0
+   },
+   "Aftrtrmnt2Intake%O2": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2IntakeGasSensorPwrInRange": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2IntakeGasSensoratTemp": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2IntakeNOxReadingStable": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2IntakeWide-Range%O2ReadingStable": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2IntakeGasSensorHeaterPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2IntakeGasSensorHeaterCtrl": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2IntakeNOxSensorPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2IntakeOxygenSensorPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2OutletNOx": {
+       "unit": "ppm",
+       "visualise": 0
+   },
+   "Aftrtrmnt2Outlet%O2": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2OutletGasSensorPwrInRange": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2OutletGasSensoratTemp": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2OutletNOxReadingStable": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2OutletWide-Range%O2ReadingStable": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2OutletGasSensorHeaterPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2OutletGasSensorHeaterCtrl": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2OutletNOxSensorPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2OutletOxygenSensorPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "FifthWheelVerticalForce": {
+       "unit": "N",
+       "visualise": 0
+   },
+   "FifthWheelDrawbarForce": {
+       "unit": "N",
+       "visualise": 0
+   },
+   "FifthWheelRollMoment": {
+       "unit": "N",
+       "visualise": 0
+   },
+   "FifthWheelRollWarnInd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "PitchAngle": {
+       "unit": "deg",
+       "visualise": 0
+   },
+   "RollAngle": {
+       "unit": "deg",
+       "visualise": 0
+   },
+   "PitchRate": {
+       "unit": "deg\/sec",
+       "visualise": 0
+   },
+   "PitchAngleFigureofMerit": {
+       "unit": null,
+       "visualise": 0
+   },
+   "RollAngleFigureofMerit": {
+       "unit": null,
+       "visualise": 0
+   },
+   "PitchRateFigureofMerit": {
+       "unit": null,
+       "visualise": 0
+   },
+   "PitchandRollComp": {
+       "unit": null,
+       "visualise": 0
+   },
+   "RollandPitchMeasLatency": {
+       "unit": "ms",
+       "visualise": 0
+   },
+   "RelBladeHeight": {
+       "unit": "mm",
+       "visualise": 0
+   },
+   "BladeRotationAngle": {
+       "unit": "deg",
+       "visualise": 0
+   },
+   "RelBladeHeightandBladeRotationAngleMeasLatency": {
+       "unit": "ms",
+       "visualise": 0
+   },
+   "RelBladeHeightFigureofMerit": {
+       "unit": null,
+       "visualise": 0
+   },
+   "BladeRotationAngleFigureofMerit": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnCyl1CombStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnCyl2CombStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnCyl3CombStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnCyl4CombStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnCyl5CombStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnCyl6CombStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnCyl7CombStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnCyl8CombStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnCyl9CombStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnCyl10CombStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnCyl11CombStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnCyl12CombStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnCyl13CombStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnCyl14CombStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnCyl15CombStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnCyl16CombStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnCyl17CombStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnCyl18CombStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnCyl19CombStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnCyl20CombStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnCyl21CombStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnCyl22CombStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnCyl23CombStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnCyl24CombStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnCyl1KnockLvl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCyl2KnockLvl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCyl3KnockLvl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCyl4KnockLvl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCyl5KnockLvl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCyl6KnockLvl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCyl7KnockLvl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCyl8KnockLvl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCyl9KnockLvl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCyl10KnockLvl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCyl11KnockLvl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCyl12KnockLvl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCyl13KnockLvl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCyl14KnockLvl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCyl15KnockLvl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCyl16KnockLvl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCyl17KnockLvl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCyl18KnockLvl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCyl19KnockLvl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCyl20KnockLvl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCyl21KnockLvl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCyl22KnockLvl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCyl23KnockLvl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCyl24KnockLvl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnThrottleActuator1CtrlCmd": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnThrottleActuator2CtrlCmd": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnFuelActuator1CtrlCmd": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnFuelActuator2CtrlCmd": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "SteerWheelAngleRangeCnt": {
+       "unit": "ranges",
+       "visualise": 0
+   },
+   "SteerWheelAngleRangeCntType": {
+       "unit": null,
+       "visualise": 0
+   },
+   "SteerWheelAngleRange": {
+       "unit": "rad",
+       "visualise": 0
+   },
+   "SteerAngleSensorActiveMode": {
+       "unit": null,
+       "visualise": 0
+   },
+   "SteerAngleSensorCalibrated": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnSpd1": {
+       "unit": "rpm",
+       "visualise": 0
+   },
+   "EngnSpd2": {
+       "unit": "rpm",
+       "visualise": 0
+   },
+   "EngnSpd3": {
+       "unit": "rpm",
+       "visualise": 0
+   },
+   "EngnSpdSensor3TimingPatternStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnSpdSensor2TimingPatternStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnSpdSensor1TimingPatternStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRActualDosingReagentQuantity(instantaneous)": {
+       "unit": "g\/h",
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRSysState": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRActualReagentQuantityofIntegrator(integratortotalvalue)": {
+       "unit": "g",
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRDosingReagentAbsPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRReqedDosingReagentQuantity": {
+       "unit": "g\/h",
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRSysReqedState": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRReqedReagentQuantityforIntegrator(integratortotalvalue)": {
+       "unit": "g",
+       "visualise": 0
+   },
+   "Aftrtrmnt1OutletNH3": {
+       "unit": "g\/h",
+       "visualise": 0
+   },
+   "Aftrtrmnt1OutletNH3SensorPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1OutletNH3ReadingStable": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1OutletNH3GasSensorPwrInRange": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1OutletNH3GasSensoratTemp": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1OutletNH3GasSensorHeaterPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1OutletNH3GasSensorHeaterCtrl": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRActualDosingReagentQuantity(instantaneous)": {
+       "unit": "g\/h",
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRSysState": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRActualReagentQuantityofIntegrator(integratorfeedback)": {
+       "unit": "g",
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRDosingReagentAbsPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRReqedDosingReagentQuantity": {
+       "unit": "g\/h",
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRSysReqedState": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRReqedReagentQuantityforIntegrator(integratortotalvalue)": {
+       "unit": "g",
+       "visualise": 0
+   },
+   "Aftrtrmnt2OutletNH3": {
+       "unit": "g\/h",
+       "visualise": 0
+   },
+   "Aftrtrmnt2OutletNH3SensorPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2OutletNH3ReadingStable": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2OutletNH3GasSensorPwrInRange": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2OutletNH3GasSensoratTemp": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2OutletNH3GasSensorHeaterPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2OutletNH3GasSensorHeaterCtrl": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick10GripX-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick10GripX-AxisLeverLeftNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick10GripX-AxisLeverRightPosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick10GripX-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick10GripY-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick10GripY-AxisLeverBackNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick10GripY-AxisLeverForwardPosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick10GripY-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick10Theta-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick10Theta-AxisCntClockwiseNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick10Theta-AxisClockwisePosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick10Theta-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick10Theta-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick10GripY-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick10GripX-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick10X-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick10X-AxisLeverLeftNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick10X-AxisLeverRightPosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick10X-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick10Y-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick10Y-AxisLeverBackNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick10Y-AxisLeverForwardPosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick10Y-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick10Y-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick10X-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick10Btn4PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick10Btn3PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick10Btn2PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick10Btn1PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick10Btn8PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick10Btn7PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick10Btn6PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick10Btn5PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick10Btn12PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick10Btn11PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick10Btn10PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick10Btn9PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick9GripX-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick9GripX-AxisLeverLeftNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick9GripX-AxisLeverRightPosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick9GripX-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick9GripY-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick9GripY-AxisLeverBackNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick9GripY-AxisLeverForwardPosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick9GripY-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick9Theta-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick9Theta-AxisCntClockwiseNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick9Theta-AxisClockwisePosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick9Theta-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick9Theta-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick9GripY-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick9GripX-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick9X-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick9X-AxisLeverLeftNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick9X-AxisLeverRightPosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick9X-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick9Y-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick9Y-AxisLeverBackNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick9Y-AxisLeverForwardPosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick9Y-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick9Y-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick9X-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick9Btn4PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick9Btn3PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick9Btn2PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick9Btn1PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick9Btn8PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick9Btn7PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick9Btn6PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick9Btn5PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick9Btn12PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick9Btn11PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick9Btn10PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick9Btn9PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick8GripX-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick8GripX-AxisLeverLeftNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick8GripX-AxisLeverRightPosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick8GripX-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick8GripY-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick8GripY-AxisLeverBackNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick8GripY-AxisLeverForwardPosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick8GripY-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick8Theta-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick8Theta-AxisCntClockwiseNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick8Theta-AxisClockwisePosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick8Theta-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick8Theta-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick8GripY-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick8GripX-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick8X-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick8X-AxisLeverLeftNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick8X-AxisLeverRightPosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick8X-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick8Y-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick8Y-AxisLeverBackNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick8Y-AxisLeverForwardPosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick8Y-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick8Y-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick8X-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick8Btn4PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick8Btn3PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick8Btn2PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick8Btn1PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick8Btn8PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick8Btn7PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick8Btn6PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick8Btn5PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick8Btn12PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick8Btn11PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick8Btn10PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick8Btn9PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick7GripX-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick7GripX-AxisLeverLeftNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick7GripX-AxisLeverRightPosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick7GripX-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick7GripY-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick7GripY-AxisLeverBackNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick7GripY-AxisLeverForwardPosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick7GripY-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick7Theta-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick7Theta-AxisCntClockwiseNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick7Theta-AxisClockwisePosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick7Theta-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick7Theta-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick7GripY-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick7GripX-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick7X-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick7X-AxisLeverLeftNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick7X-AxisLeverRightPosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick7X-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick7Y-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick7Y-AxisLeverBackNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick7Y-AxisLeverForwardPosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick7Y-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick7Y-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick7X-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick7Btn4PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick7Btn3PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick7Btn2PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick7Btn1PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick7Btn8PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick7Btn7PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick7Btn6PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick7Btn5PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick7Btn12PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick7Btn11PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick7Btn10PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick7Btn9PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick6GripX-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick6GripX-AxisLeverLeftNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick6GripX-AxisLeverRightPosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick6GripX-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick6GripY-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick6GripY-AxisLeverBackNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick6GripY-AxisLeverForwardPosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick6GripY-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick6Theta-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick6Theta-AxisCntClockwiseNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick6Theta-AxisClockwisePosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick6Theta-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick6Theta-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick6GripY-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick6GripX-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick6X-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick6X-AxisLeverLeftNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick6X-AxisLeverRightPosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick6X-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick6Y-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick6Y-AxisLeverBackNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick6Y-AxisLeverForwardPosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick6Y-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick6Y-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick6X-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick6Btn4PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick6Btn3PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick6Btn2PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick6Btn1PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick6Btn8PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick6Btn7PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick6Btn6PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick6Btn5PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick6Btn12PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick6Btn11PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick6Btn10PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick6Btn9PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick5GripX-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick5GripX-AxisLeverLeftNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick5GripX-AxisLeverRightPosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick5GripX-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick5GripY-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick5GripY-AxisLeverBackNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick5GripY-AxisLeverForwardPosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick5GripY-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick5Theta-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick5Theta-AxisCntClockwiseNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick5Theta-AxisClockwisePosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick5Theta-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick5Theta-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick5GripY-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick5GripX-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick5X-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick5X-AxisLeverLeftNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick5X-AxisLeverRightPosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick5X-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick5Y-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick5Y-AxisLeverBackNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick5Y-AxisLeverForwardPosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick5Y-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick5Y-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick5X-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick5Btn4PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick5Btn3PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick5Btn2PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick5Btn1PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick5Btn8PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick5Btn7PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick5Btn6PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick5Btn5PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick5Btn12PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick5Btn11PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick5Btn10PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick5Btn9PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick4GripX-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick4GripX-AxisLeverLeftNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick4GripX-AxisLeverRightPosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick4GripX-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick4GripY-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick4GripY-AxisLeverBackNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick4GripY-AxisLeverForwardPosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick4GripY-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick4Theta-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick4Theta-AxisCntClockwiseNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick4Theta-AxisClockwisePosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick4Theta-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick4Theta-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick4GripY-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick4GripX-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick4X-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick4X-AxisLeverLeftNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick4X-AxisLeverRightPosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick4X-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick4Y-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick4Y-AxisLeverBackNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick4Y-AxisLeverForwardPosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick4Y-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick4Y-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick4X-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick4Btn4PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick4Btn3PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick4Btn2PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick4Btn1PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick4Btn8PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick4Btn7PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick4Btn6PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick4Btn5PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick4Btn12PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick4Btn11PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick4Btn10PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick4Btn9PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick1Lamp1Cmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick1Lamp2Cmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick1Lamp3Cmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick1Lamp4Cmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick1Lamp5Cmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick1Lamp6Cmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick1Lamp7Cmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick1Lamp8Cmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick1Lamp9Cmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick1Lamp10Cmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick2Lamp1Cmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick2Lamp2Cmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick2Lamp3Cmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick2Lamp4Cmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick2Lamp5Cmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick2Lamp6Cmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick2Lamp7Cmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick2Lamp8Cmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick2Lamp9Cmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick2Lamp10Cmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick3Lamp1Cmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick3Lamp2Cmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick3Lamp3Cmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick3Lamp4Cmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick3Lamp5Cmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick3Lamp6Cmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick3Lamp7Cmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick3Lamp8Cmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick3Lamp9Cmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick3Lamp10Cmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRCatReagentPumpMotorSpd(feedbackonpumpspeed)": {
+       "unit": "rpm",
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRCatReagentPumpDrvPctage(Cmdtopump)": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRCatReagentReturnValve(Diralcommandforreturn)": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRCatReagentTank2Lvl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRCatReagentTank2Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRCatReagentTank2Lvl2": {
+       "unit": "m)",
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRCatReagentTank2LvlPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRReagentTank2TempPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRCatReagentTank2Heater(light-off)": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRCatReagentTank2HeaterPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRCatTankLvl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRCatTankTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRCatTankLvl2": {
+       "unit": "m)",
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRCatTankLvlPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRCatReagentTank1TempPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRCatReagentTank1HeaterPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRCatReagentTemp2": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRCatReagentConcentration": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRCatReagentConductivity": {
+       "unit": "microSiemens\/mm",
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRCatReagentTemp2PrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRCatReagentPropertiesPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRCatReagentType": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRAvgCatReagentConsumption(15hravg)": {
+       "unit": "L\/h",
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRCmdedCatReagentConsumption(15hravg)": {
+       "unit": "L\/h",
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRCatConversionEfficiency": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRCatIntakeGasTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRCatIntakeGasTempPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRCatOutletGasTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRCatOutletGasTempPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRCatExhGasDiffPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRCatExhGasDiffPresPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRDoserFaultSuppressionReq": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRDoserHeatingModeReq": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRCatReagentLineHeater1(request)": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRCatReagentLineHeater2(request)": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRCatReagentLineHeater3(request)": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRCatReagentLineHeater4(request)": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRDosingAirAssistAbsPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRDosingAirAssistValve(measured,0=closed)": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRDosingReagentTemp(closesttodosingvalve)": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRDosingValveExhTemp.ReductionReq": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRFeedbackCtrlStat(Open\/ClosedLoop)": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRCatReagentLineHeater1state": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRCatReagentLineHeater1PrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRCatReagentLineHeater2state": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRCatReagentLineHeater2PrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRCatReagentLineHeater3state": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRCatReagentLineHeater3PrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRCatReagentLineHeater4state": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2SCRCatReagentLineHeater4PrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRCatReagentPumpMotorSpd(feedbackonpumpspeed)": {
+       "unit": "rpm",
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRCatReagentPumpDrvPctage(Cmdtopump)": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRCatReagentReturnValve(Diralcommandforreturn)": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRCatReagentTank2Lvl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRCatReagentTank2Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRCatReagentTank2Lvl2": {
+       "unit": "m)",
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRCatReagentTank2LvlPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRReagentTank2TempPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRCatReagentTank2Heater(light-off)": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRCatReagentTank2HeaterPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRCatIntakeGasTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRCatIntakeGasTempPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRCatOutletGasTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRCatOutletGasTempPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRCatExhGasDiffPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRCatExhGasDiffPresPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRDoserFaultSuppressionReq": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRDoserHeatingModeReq": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRCatReagentLineHeater1(request)": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRCatReagentLineHeater2(request)": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRCatReagentLineHeater3(request)": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRCatReagentLineHeater4(request)": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRDosingAirAssistAbsPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRDosingAirAssistValve(measured,0=closed)": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRDosingReagentTemp(closesttodosingvalve)": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRDosingValveExhTemp.ReductionReq": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRFeedbackCtrlStat(Open\/ClosedLoop)": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRCatReagentLineHeater1state": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRCatReagentLineHeater1PrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRCatReagentLineHeater2state": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRCatReagentLineHeater2PrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRCatReagentLineHeater3state": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRCatReagentLineHeater3PrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRCatReagentLineHeater4state": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRCatReagentLineHeater4PrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2FuelPres2": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "Aftrtrmnt2ThreeWayCatalyticConverterIntakeGasTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "Aftrtrmnt2ThreeWayCatalyticConverterOutletGasTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "Aftrtrmnt2ThreeWayCatalyticConverterDiffPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "Aftrtrmnt2ThreeWayCatalyticConverterIntakeGasTempPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2ThreeWayCatalyticConverterOutletGasTempPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2ThreeWayCatalyticConverterDiffPresPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1ThreeWayCatalyticConverterIntakeGasTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "Aftrtrmnt1ThreeWayCatalyticConverterOutletGasTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "Aftrtrmnt1ThreeWayCatalyticConverterDiffPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "Aftrtrmnt1ThreeWayCatalyticConverterIntakeGasTempPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1ThreeWayCatalyticConverterOutletGasTempPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1ThreeWayCatalyticConverterDiffPresPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Long-termFuelTrim-Bank2": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Short-termFuelTrim-Bank2": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnExhGasOxygenSensorClosedLoopOperation,Bank2": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Long-termFuelTrim-Bank1": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Short-termFuelTrim-Bank1": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnExhGasOxygenSensorClosedLoopOperation,Bank1": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AftercoolerCoolT-statMode": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DesiredAftercoolerCoolInletTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "DesiredAftercoolerCoolT-statOpening": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCoolT-statMode": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DesiredEngnCoolPumpOutletTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "DesiredEngnCoolT-statOpening": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnExhGasTempAvg": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnExhGasTempAvg-Bank1": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnExhGasTempAvg-Bank2": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "Aftrtrmnt1FuelPres2": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnCoolTemp2": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnCoolPumpOutletTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnCoolT-statOpening": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnExhValveActuationSysOilTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "ZeroNetVehWeightChange": {
+       "unit": null,
+       "visualise": 0
+   },
+   "GrossCombinationWeight": {
+       "unit": "kg",
+       "visualise": 0
+   },
+   "NetVehWeightChange": {
+       "unit": "kg",
+       "visualise": 0
+   },
+   "AxleGrpLoc": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AxleGrpEmptyWeightCal": {
+       "unit": "kg",
+       "visualise": 0
+   },
+   "AxleGrpFullWeightCal": {
+       "unit": "kg",
+       "visualise": 0
+   },
+   "AxleGrpWeight": {
+       "unit": "kg",
+       "visualise": 0
+   },
+   "SteerAxleGrpWeightAvailable": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LiftAxleGrpWeightAvailable": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DrvAxleGrpWeightAvailable": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TagAxleGrpWeightAvailable": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AdditionalTractorAxleGrpWeightAvailable": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TrailerAAxleGrpWeightAvailable": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TrailerBAxleGrpWeightAvailable": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TrailerCAxleGrpWeightAvailable": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TrailerDAxleGrpWeightAvailable": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TrailerEAxleGrpWeightAvailable": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TrailerFAxleGrpWeightAvailable": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TrailerGAxleGrpWeightAvailable": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TrailerHAxleGrpWeightAvailable": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AdditionalTrailerAxleGrpWeightAvailable": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2SecndAirDiffPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "Aftrtrmnt2SecndAirTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "Aftrtrmnt2SecndAirMassFlow": {
+       "unit": "bit",
+       "visualise": 0
+   },
+   "Aftrtrmnt2SecndAirPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "Aftrtrmnt1SecndAirDiffPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "Aftrtrmnt1SecndAirTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "Aftrtrmnt1SecndAirMassFlow": {
+       "unit": "bit",
+       "visualise": 0
+   },
+   "Aftrtrmnt1SecndAirPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRAvgCatReagentConsumption(15hravg)": {
+       "unit": "L\/h",
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRCmdedCatReagentConsumption(15hravg)": {
+       "unit": "L\/h",
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRCatConversionEfficiency": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnExhGasRecirculation(EGR)Valve2Ctrl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "RetractStatoframp1": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Enblstatusoframp1": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Movementstatusoframp1": {
+       "unit": null,
+       "visualise": 0
+   },
+   "RetractStatoframp2": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Enblstatusoframp2": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Movementstatusoframp2": {
+       "unit": null,
+       "visualise": 0
+   },
+   "RetractStatoframp3": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Enblstatusoframp3": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Movementstatusoframp3": {
+       "unit": null,
+       "visualise": 0
+   },
+   "RetractStatoframp4": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Enblstatusoframp4": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Movementstatusoframp4": {
+       "unit": null,
+       "visualise": 0
+   },
+   "RetractStatoframp5": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Enblstatusoframp5": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Movementstatusoframp5": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TractorBrakeStrokeAxle1Left": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TractorBrakeStrokeAxle1Right": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TractorBrakeStrokeAxle2Left": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TractorBrakeStrokeAxle2Right": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TractorBrakeStrokeAxle3Left": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TractorBrakeStrokeAxle3Right": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TractorBrakeStrokeAxle4Left": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TractorBrakeStrokeAxle4Right": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TractorBrakeStrokeAxle5Left": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TractorBrakeStrokeAxle5Right": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TrailerBrakeStrokeAxle1Left": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TrailerBrakeStrokeAxle1Right": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TrailerBrakeStrokeAxle2Left": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TrailerBrakeStrokeAxle2Right": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TrailerBrakeStrokeAxle3Left": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TrailerBrakeStrokeAxle3Right": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TrailerBrakeStrokeAxle4Left": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TrailerBrakeStrokeAxle4Right": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TrailerBrakeStrokeAxle5Left": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TrailerBrakeStrokeAxle5Right": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnSparkPlug21": {
+       "unit": "Volts",
+       "visualise": 0
+   },
+   "EngnSparkPlug22": {
+       "unit": "Volts",
+       "visualise": 0
+   },
+   "EngnSparkPlug23": {
+       "unit": "Volts",
+       "visualise": 0
+   },
+   "EngnSparkPlug24": {
+       "unit": "Volts",
+       "visualise": 0
+   },
+   "EngnSparkPlug17": {
+       "unit": "Volts",
+       "visualise": 0
+   },
+   "EngnSparkPlug18": {
+       "unit": "Volts",
+       "visualise": 0
+   },
+   "EngnSparkPlug19": {
+       "unit": "Volts",
+       "visualise": 0
+   },
+   "EngnSparkPlug20": {
+       "unit": "Volts",
+       "visualise": 0
+   },
+   "EngnSparkPlug13": {
+       "unit": "Volts",
+       "visualise": 0
+   },
+   "EngnSparkPlug14": {
+       "unit": "Volts",
+       "visualise": 0
+   },
+   "EngnSparkPlug15": {
+       "unit": "Volts",
+       "visualise": 0
+   },
+   "EngnSparkPlug16": {
+       "unit": "Volts",
+       "visualise": 0
+   },
+   "EngnSparkPlug9": {
+       "unit": "Volts",
+       "visualise": 0
+   },
+   "EngnSparkPlug10": {
+       "unit": "Volts",
+       "visualise": 0
+   },
+   "EngnSparkPlug11": {
+       "unit": "Volts",
+       "visualise": 0
+   },
+   "EngnSparkPlug12": {
+       "unit": "Volts",
+       "visualise": 0
+   },
+   "EngnSparkPlug5": {
+       "unit": "Volts",
+       "visualise": 0
+   },
+   "EngnSparkPlug6": {
+       "unit": "Volts",
+       "visualise": 0
+   },
+   "EngnSparkPlug7": {
+       "unit": "Volts",
+       "visualise": 0
+   },
+   "EngnSparkPlug8": {
+       "unit": "Volts",
+       "visualise": 0
+   },
+   "EngnSparkPlug1": {
+       "unit": "Volts",
+       "visualise": 0
+   },
+   "EngnSparkPlug2": {
+       "unit": "Volts",
+       "visualise": 0
+   },
+   "EngnSparkPlug3": {
+       "unit": "Volts",
+       "visualise": 0
+   },
+   "EngnSparkPlug4": {
+       "unit": "Volts",
+       "visualise": 0
+   },
+   "Aftrtrmnt2TripFuelUsed": {
+       "unit": "L",
+       "visualise": 0
+   },
+   "Aftrtrmnt2TripActiveRegenTime": {
+       "unit": "s",
+       "visualise": 0
+   },
+   "Aftrtrmnt1TripFuelUsed": {
+       "unit": "L",
+       "visualise": 0
+   },
+   "Aftrtrmnt1TripActiveRegenTime": {
+       "unit": "s",
+       "visualise": 0
+   },
+   "DieselPartFilt2SootLoadPct": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "DieselPartFilt2AshLoadPct": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "DieselPartFilt2TimeSinceLastActiveRegen": {
+       "unit": "s",
+       "visualise": 0
+   },
+   "DieselPartFilt1SootLoadPct": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "DieselPartFilt1AshLoadPct": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "DieselPartFilt1TimeSinceLastActiveRegen": {
+       "unit": "s",
+       "visualise": 0
+   },
+   "DieselPartFiltLampCmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DieselPartFiltPassiveRegenStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DieselPartFiltActiveRegenStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DieselPartFiltStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DieselPartFiltActiveRegenInhbtStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DieselPartFiltActiveRegenInhbtDuetoInhibitSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DieselPartFiltActiveRegenInhbtDuetoClutchDisengaged": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DieselPartFiltActiveRegenInhbtDuetoServiceBrakeActive": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DieselPartFiltActiveRegenInhbtDuetoPTOActive": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DieselPartFiltActiveRegenInhbtDuetoAccelPedalOffIdle": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DieselPartFiltActiveRegenInhbtDuetoOutofNeutral": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DieselPartFiltActiveRegenInhbtDuetoVehSpdAboveAllowedSpd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DieselPartFiltActiveRegenInhbtDuetoPrkBrakeNotSet": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DieselPartFiltActiveRegenInhbtDuetoLoExhGasTemp": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DieselPartFiltActiveRegenInhbtDuetoSysFaultActive": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DieselPartFiltActiveRegenInhbtDuetoSysTimeout": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DieselPartFiltActiveRegenInhbtDuetoTemporarySysLockout": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DieselPartFiltActiveRegenInhbtDuetoPermanentSysLockout": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DieselPartFiltActiveRegenInhbtDuetoEngnNotWarmedUp": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DieselPartFiltActiveRegenInhbtDuetoVehSpdBelowAllowedSpd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DieselPartFiltAutomaticActiveRegenInitiationConf": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ExhSysHiTempLampCmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DieselPartFiltActiveRegenForcedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LeftHeadlampDynamicBendingLight": {
+       "unit": null,
+       "visualise": 0
+   },
+   "RightHeadlampDynamicBendingLight": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LeftHeadlampLightDistribution": {
+       "unit": null,
+       "visualise": 0
+   },
+   "RightHeadlampLightDistribution": {
+       "unit": null,
+       "visualise": 0
+   },
+   "MaxCrankAttemptsperStartAttempt": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EGRCoolerBypassActuatorPostion": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Xfercasestatus": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnIntakeValveActuationOilPresforCyl#17": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnIntakeValveActuationOilPresforCyl#18": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnIntakeValveActuationOilPresforCyl#19": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnIntakeValveActuationOilPresforCyl#20": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnIntakeValveActuationOilPresforCyl#13": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnIntakeValveActuationOilPresforCyl#14": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnIntakeValveActuationOilPresforCyl#15": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnIntakeValveActuationOilPresforCyl#16": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnIntakeValveActuationOilPresforCyl#9": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnIntakeValveActuationOilPresforCyl#10": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnIntakeValveActuationOilPresforCyl#11": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnIntakeValveActuationOilPresforCyl#12": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnIntakeValveActuationOilPresforCyl#5": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnIntakeValveActuationOilPresforCyl#6": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnIntakeValveActuationOilPresforCyl#7": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnIntakeValveActuationOilPresforCyl#8": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnIntakeValveActuationOilPresforCyl#1": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnIntakeValveActuationOilPresforCyl#2": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnIntakeValveActuationOilPresforCyl#3": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnIntakeValveActuationOilPresforCyl#4": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "VehRoll": {
+       "unit": "deg",
+       "visualise": 0
+   },
+   "NumofJ2012DTCs": {
+       "unit": null,
+       "visualise": 0
+   },
+   "J2012DTC": {
+       "unit": "byte",
+       "visualise": 0
+   },
+   "J2012DTCStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "J2012DTCOccurrenceCount": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DieselPartFiltIntakePres2": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "DieselPartFiltOutletPres2": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "DieselPartFiltIntakePres1": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "DieselPartFiltOutletPres1": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "AETCDataCollectionStandard": {
+       "unit": null,
+       "visualise": 0
+   },
+   "NumofAETCdatapoints": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AETCSpdValue": {
+       "unit": "rpm",
+       "visualise": 0
+   },
+   "AETCTrqvalue": {
+       "unit": "Nm",
+       "visualise": 0
+   },
+   "EngnOpState": {
+       "unit": null,
+       "visualise": 0
+   },
+   "FuelPumpPrimerCtrl": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TimeRemaininginEngnOpState": {
+       "unit": "s",
+       "visualise": 0
+   },
+   "EngnFuelShutoffVentCtrl": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnFuelShutoff1Ctrl": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnFuelShutoff2Ctrl": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnFuelShutoffValveLeakTestCtrl": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnOilPrimingPumpCtrl": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnOilPre-heaterCtrl": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnElecSysPwrConservationCtrl": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnBlock\/CoolPre-heaterCtrl": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnCoolCirculatingPumpCtrl": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnCtrlledShutdownReq": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnEmergency(Immediate)ShutdownIndication": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnDerateReq": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnExhGasRecirculationValvePos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnExhGasRecirculationValve2Pos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "TransOilFiltRestrictionSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransOilLvlSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransTrqConverterOilOutletTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "TransOilLifeRemaining": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Aftrtrmnt1TotalFuelUsed": {
+       "unit": "L",
+       "visualise": 0
+   },
+   "Aftrtrmnt1TotalRegenTime": {
+       "unit": "s",
+       "visualise": 0
+   },
+   "Aftrtrmnt2TotalFuelUsed": {
+       "unit": "L",
+       "visualise": 0
+   },
+   "Aftrtrmnt2TotalRegenTime": {
+       "unit": "s",
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRCatReagentTemp2": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRCatReagentConcentration": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRCatReagentConductivity": {
+       "unit": "microSiemens\/mm",
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRCatReagentTemp2PrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRCatReagentPropertiesPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRCatReagentType": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Sensorsupplyvoltage5": {
+       "unit": "V",
+       "visualise": 0
+   },
+   "Sensorsupplyvoltage6": {
+       "unit": "V",
+       "visualise": 0
+   },
+   "Sensorsupplyvoltage1": {
+       "unit": "V",
+       "visualise": 0
+   },
+   "Sensorsupplyvoltage2": {
+       "unit": "V",
+       "visualise": 0
+   },
+   "Sensorsupplyvoltage3": {
+       "unit": "V",
+       "visualise": 0
+   },
+   "Sensorsupplyvoltage4": {
+       "unit": "V",
+       "visualise": 0
+   },
+   "Aftrtrmnt2SupplyAirPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "Aftrtrmnt2PurgeAirPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "Aftrtrmnt2AirPresCtrl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Aftrtrmnt2AirPresActuatorPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Aftrtrmnt2AirSysRelay": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2AtomizationAirActuator": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2PurgeAirActuator": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2AirEnblActuator": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1SupplyAirPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "Aftrtrmnt1PurgeAirPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "Aftrtrmnt1AirPresCtrl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Aftrtrmnt1AirPresActuatorPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Aftrtrmnt1AirSysRelay": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1AtomizationAirActuator": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1PurgeAirActuator": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1AirEnblActuator": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2FuelPres1": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "Aftrtrmnt2FuelRate": {
+       "unit": "L\/h",
+       "visualise": 0
+   },
+   "Aftrtrmnt2FuelPresCtrl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Aftrtrmnt2FuelDrainActuator": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2Ign": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2RegenStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2FuelEnblActuator": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2FuelInj1HeaterCtrl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Aftrtrmnt1FuelPres1": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "Aftrtrmnt1FuelRate": {
+       "unit": "L\/h",
+       "visualise": 0
+   },
+   "Aftrtrmnt1FuelPresCtrl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Aftrtrmnt1FuelDrainActuator": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1Ign": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1RegenStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1FuelEnblActuator": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1FuelInj1HeaterCtrl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnFuelValve2InletAbsPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnGas2MassFlowRate": {
+       "unit": "kg\/h",
+       "visualise": 0
+   },
+   "EngnFuelTemp2": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnFuelValve2OutletAbsPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnTurboComprCtrl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnVarGeometryTurboActuator#1": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnTurboComprBypassActuatorPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EnblSwch–XfercaseoutputshaftPTO": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EnblSwch–TransoutputshaftPTO": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EnblSwch–TransinputshaftPTO2": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EnblSwch–TransinputshaftPTO1": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EnblSwch-PTOEngnFlywheel": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EnblSwch-PTOEngnAccessoryDrv1": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EnblSwch-PTOEngnAccessoryDrv2": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngagementConsent–XfercaseoutputshaftPTO": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngagementConsent–TransoutputshaftPTO": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngagementConsent–TransinputshaftPTO2": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngagementConsent–TransinputshaftPTO1": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngagementConsent-PTOEngnFlywheel": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngagementConsent-PTOEngnAccessoryDrv1": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngagementConsent-PTOEngnAccessoryDrv2": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngagementStat–XfercaseoutputshaftPTO": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngagementStat–TransoutputshaftPTO": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngagementStat–TransinputshaftPTO2": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngagementStat–TransinputshaftPTO1": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngagementStat-PTOEngnFlywheel": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngagementStat-PTOEngnAccessoryDrv1": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngagementStat-PTOEngnAccessoryDrv2": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AtleastonePTOengaged": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LockStatofDoor1": {
+       "unit": null,
+       "visualise": 0
+   },
+   "OpenStatofDoor1": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EnblStatofDoor1": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LockStatofDoor2": {
+       "unit": null,
+       "visualise": 0
+   },
+   "OpenStatofDoor2": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EnblStatofDoor2": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LockStatofDoor3": {
+       "unit": null,
+       "visualise": 0
+   },
+   "OpenStatofDoor3": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EnblStatofDoor3": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LockStatofDoor4": {
+       "unit": null,
+       "visualise": 0
+   },
+   "OpenStatofDoor4": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EnblStatofDoor4": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LockStatofDoor5": {
+       "unit": null,
+       "visualise": 0
+   },
+   "OpenStatofDoor5": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EnblStatofDoor5": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LockStatofDoor6": {
+       "unit": null,
+       "visualise": 0
+   },
+   "OpenStatofDoor6": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EnblStatofDoor6": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LockStatofDoor7": {
+       "unit": null,
+       "visualise": 0
+   },
+   "OpenStatofDoor7": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EnblStatofDoor7": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LockStatofDoor8": {
+       "unit": null,
+       "visualise": 0
+   },
+   "OpenStatofDoor8": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EnblStatofDoor8": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LockStatofDoor9": {
+       "unit": null,
+       "visualise": 0
+   },
+   "OpenStatofDoor9": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EnblStatofDoor9": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LockStatofDoor10": {
+       "unit": null,
+       "visualise": 0
+   },
+   "OpenStatofDoor10": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EnblStatofDoor10": {
+       "unit": null,
+       "visualise": 0
+   },
+   "NetworkTransceiverStat2": {
+       "unit": null,
+       "visualise": 0
+   },
+   "NetworkServiceStat2": {
+       "unit": null,
+       "visualise": 0
+   },
+   "NetworkAntennaStat2": {
+       "unit": null,
+       "visualise": 0
+   },
+   "NetworkSigStrength2": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "WirelessCommunicationNetworkType2": {
+       "unit": null,
+       "visualise": 0
+   },
+   "NetworkTransceiverStat1": {
+       "unit": null,
+       "visualise": 0
+   },
+   "NetworkServiceStat1": {
+       "unit": null,
+       "visualise": 0
+   },
+   "NetworkAntennaStat1": {
+       "unit": null,
+       "visualise": 0
+   },
+   "NetworkSigStrength1": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "WirelessCommunicationNetworkType1": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnChargeAirCooler1InletPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnChargeAirCooler2InletPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnCoolPumpDiffPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnCentrifugalOilFiltspeed": {
+       "unit": "rpm",
+       "visualise": 0
+   },
+   "EngnIntrclrCoolLvl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnAftercoolerCoolLvl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnChargeAirCoolerOutletPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "FifthWheelErrStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "FifthWheelLockReadytoCoupleInd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "FifthWheelLockCoupleStatInd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "FifthWheelSliderPos": {
+       "unit": "m)",
+       "visualise": 0
+   },
+   "FifthWheelSliderLockInd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2ExhGasTemp2": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "Aftrtrmnt2DieselPartFiltIntermediateGasTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "Aftrtrmnt2DieselPartFiltDiffPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "Aftrtrmnt2ExhGasTemp2PrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2DieselPartFiltDeltaPresPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2DieselPartFiltIntermediateGasTempPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2ExhGasTemp3": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "Aftrtrmnt2DieselPartFiltOutletGasTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "Aftrtrmnt2ExhGasTemp3PrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2DieselPartFiltExhGasTempPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2ExhGasTemp1": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "Aftrtrmnt2DieselPartFiltIntakeGasTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "Aftrtrmnt2ExhGasTemp1PrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2DieselPartFiltIntakeGasTempPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1ExhGasTemp2": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "Aftrtrmnt1DieselPartFiltIntermediateGasTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "Aftrtrmnt1DieselPartFiltDiffPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "Aftrtrmnt1ExhGasTemp2PrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1DieselPartFiltDeltaPresPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1DieselPartFiltIntermediateGasTempPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1ExhGasTemp3": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "Aftrtrmnt1DieselPartFiltOutletGasTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "Aftrtrmnt1ExhGasTemp3PrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1DieselPartFiltOutletExhGasTempPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1ExhGasTemp1": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "Aftrtrmnt1DieselPartFiltIntakeGasTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "Aftrtrmnt1ExhGasTemp1PrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1DieselPartFiltIntakeGasTempPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "RefTirePres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "FareboxEmergencyStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "FareboxAlarmId": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransactionType": {
+       "unit": null,
+       "visualise": 0
+   },
+   "PassengerType": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TypeofFare": {
+       "unit": null,
+       "visualise": 0
+   },
+   "PaymentDetails": {
+       "unit": null,
+       "visualise": 0
+   },
+   "FareValidity": {
+       "unit": null,
+       "visualise": 0
+   },
+   "PassCat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "InitialFareAgency": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TypeofService": {
+       "unit": null,
+       "visualise": 0
+   },
+   "XferType": {
+       "unit": null,
+       "visualise": 0
+   },
+   "RouteNum": {
+       "unit": null,
+       "visualise": 0
+   },
+   "XferSold": {
+       "unit": null,
+       "visualise": 0
+   },
+   "FareboxServiceStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TripStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TripDir": {
+       "unit": null,
+       "visualise": 0
+   },
+   "FarePresets": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TripNum": {
+       "unit": "counts",
+       "visualise": 0
+   },
+   "PatternNum": {
+       "unit": "counts",
+       "visualise": 0
+   },
+   "RangeCodeEnbl": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransitRouteIDUsage": {
+       "unit": null,
+       "visualise": 0
+   },
+   "IntersectionPreemptionReq\/Response": {
+       "unit": null,
+       "visualise": 0
+   },
+   "PriorityofResponseSentbyEmitter": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransitDoorEnbl": {
+       "unit": null,
+       "visualise": 0
+   },
+   "StrobeActivationCtrlStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "VehID": {
+       "unit": "counts",
+       "visualise": 0
+   },
+   "Agency": {
+       "unit": null,
+       "visualise": 0
+   },
+   "NumofbytesintheTransitAssignedRouteId": {
+       "unit": null,
+       "visualise": 0
+   },
+   "NumofbytesintheTransitAssignedRunId": {
+       "unit": null,
+       "visualise": 0
+   },
+   "NumofbytesintheTransitAssignedBlockId": {
+       "unit": null,
+       "visualise": 0
+   },
+   "NumofbytesintheMilepostId": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TypeofPassengerCount": {
+       "unit": null,
+       "visualise": 0
+   },
+   "PatronCount": {
+       "unit": null,
+       "visualise": 0
+   },
+   "SilentAlarmStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "VehUseStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransitRunStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnIntakeValveActuationSysOilPres": {
+       "unit": "Mpa",
+       "visualise": 0
+   },
+   "EngnExhGasRecirculationInletPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnExhValveActuationSysOilPres": {
+       "unit": "Mpa",
+       "visualise": 0
+   },
+   "BrakeTempWarn": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Haltbrakemode": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Hillholdermode": {
+       "unit": null,
+       "visualise": 0
+   },
+   "FoundationBrakeUse": {
+       "unit": null,
+       "visualise": 0
+   },
+   "XBRSysState": {
+       "unit": null,
+       "visualise": 0
+   },
+   "XBRActiveCtrlMode": {
+       "unit": null,
+       "visualise": 0
+   },
+   "XBRAccelerationLmt": {
+       "unit": "m\/s²",
+       "visualise": 0
+   },
+   "EngnStartEnblDevice1": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnStartEnblDevice2": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnStartEnblDevice1Conf": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnStartEnblDevice2Conf": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnAuxGovState": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnMulti-UnitSyncState": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnAlternateLoIdleSelState": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnAlternateRatingSelState": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnAlternateDroopAccel1SelState": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnAlternateDroopAccel2SelState": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnAlternateDroopRemAccelSelState": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnAlternateDroopAuxInSelState": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnOprPrimIntermediateSpdSelState": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TotalCountofConfChangesMade": {
+       "unit": "counts",
+       "visualise": 0
+   },
+   "EngnOprPrimIntermediateSpdSel": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnAuxGovSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnSynchronizationSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnAlternateLoIdleSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnAlternateRatingSel": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnAlternateDroopAccel1Sel": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnAlternateDroopAccel2Sel": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnAlternateDroopRemAccelSel": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnAlternateDroopAuxInSel": {
+       "unit": null,
+       "visualise": 0
+   },
+   "WorkLightSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "MainLightSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TurnSigSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "HazardLightSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Hi-LoBeamSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "OprsDesiredBack-light": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "OprsDesired-DelayedLampOffTime": {
+       "unit": "s",
+       "visualise": 0
+   },
+   "FrontNon-operatorWiperSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "FrontOprWiperSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "RearWiperSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "FrontOprWiperDelayCtrl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "FrontNon-operatorWiperDelayCtrl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "RearWiperDelayCtrl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "FrontNon-operatorWasherSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "FrontOprWasherSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "RearWasherFunction": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnAirFilt2DiffPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnAirFilt3DiffPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnAirFilt4DiffPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnIntakeManfld#2Pres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnIntakeManfld#1AbsPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "FMS-standardDiagnosticsSupported": {
+       "unit": null,
+       "visualise": 0
+   },
+   "FMS-standardReqSupported": {
+       "unit": null,
+       "visualise": 0
+   },
+   "FMS-standardSW-versionsupported.": {
+       "unit": "byte",
+       "visualise": 0
+   },
+   "Keep-AliveBattConsumption": {
+       "unit": "(64.255Ahr)",
+       "visualise": 0
+   },
+   "DataMemUsage": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnTurbo1ComprOutletTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnTurbo2ComprOutletTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnTurbo3ComprOutletTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnTurbo4ComprOutletTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "XferCaseSelSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "FifthWheelRelCtrl": {
+       "unit": null,
+       "visualise": 0
+   },
+   "FifthWheelRelCtrlSecurityLockout": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransOilLvlReq": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnTurbo1CalculatedTurbineInletTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnTurbo1CalculatedTurbineOutletTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnExhGasRecirculation(EGR)ValveCtrl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnVarGeometryTurbo(VGT)AirCtrlShutoffValve": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnVarGeometryTurbo(VGT)1ActuatorPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick1X-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick1X-AxisLeverLeftNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick1X-AxisLeverRightPosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick1X-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick1Y-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick1Y-AxisLeverBackNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick1Y-AxisLeverForwardPosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick1Y-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick1Y-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick1X-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick1Btn4PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick1Btn3PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick1Btn2PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick1Btn1PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick1Btn8PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick1Btn7PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick1Btn6PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick1Btn5PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick1Btn12PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick1Btn11PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick1Btn10PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick1Btn9PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick1GripX-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick1GripX-AxisLeverLeftNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick1GripX-AxisLeverRightPosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick1GripX-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick1GripY-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick1GripY-AxisLeverBackNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick1GripY-AxisLeverForwardPosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick1GripY-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick1Theta-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick1Theta-AxisCntClockwiseNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick1Theta-AxisClockwisePosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick1Theta-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick1Theta-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick1GripY-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick1GripX-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick2X-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick2X-AxisLeverLeftNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick2X-AxisLeverRightPosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick2X-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick2Y-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick2Y-AxisLeverBackNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick2Y-AxisLeverForwardPosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick2Y-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick2Y-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick2X-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick2Btn4PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick2Btn3PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick2Btn2PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick2Btn1PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick2Btn8PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick2Btn7PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick2Btn6PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick2Btn5PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick2Btn12PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick2Btn11PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick2Btn10PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick2Btn9PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick2GripX-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick2GripX-AxisLeverLeftNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick2GripX-AxisLeverRightPosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick2GripX-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick2GripY-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick2GripY-AxisLeverBackNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick2GripY-AxisLeverForwardPosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick2GripY-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick2Theta-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick2Theta-AxisCntClockwiseNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick2Theta-AxisClockwisePosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick2Theta-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick2Theta-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick2GripY-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick2GripX-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick3X-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick3X-AxisLeverLeftNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick3X-AxisLeverRightPosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick3X-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick3Y-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick3Y-AxisLeverBackNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick3Y-AxisLeverForwardPosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick3Y-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick3Y-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick3X-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick3Btn4PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick3Btn3PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick3Btn2PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick3Btn1PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick3Btn8PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick3Btn7PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick3Btn6PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick3Btn5PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick3Btn12PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick3Btn11PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick3Btn10PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick3Btn9PressedStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick3GripX-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick3GripX-AxisLeverLeftNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick3GripX-AxisLeverRightPosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick3GripX-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick3GripY-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick3GripY-AxisLeverBackNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick3GripY-AxisLeverForwardPosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick3GripY-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick3Theta-AxisNeutralPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick3Theta-AxisCntClockwiseNegPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick3Theta-AxisClockwisePosPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick3Theta-AxisPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Joystick3Theta-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick3GripY-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Joystick3GripX-AxisDetentPosStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnThrottleSynchronizationModeStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TrollingModeStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "SlowVesselModeStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "FrontWheelDrvActuatorStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "SolarIntensityPct": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "SolarSensorMax": {
+       "unit": "mW\/cm^2",
+       "visualise": 0
+   },
+   "SpecificHumidity": {
+       "unit": "g\/kg",
+       "visualise": 0
+   },
+   "CabA\/CRefrigerantComprOutletPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "PneumaticSupplyPresReq": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "Prkand\/orTrailerAirPresReq": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "ServiceBrakeAirPresReq,Circuit#1": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "ServiceBrakeAirPresReq,Circuit#2": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "AuxEquipmentSupplyPresReq": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "AirSuspSupplyPresReq": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "TravelVelocityCtrlPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "PldPctage": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "MaxVehSpdLmt1": {
+       "unit": "km\/h",
+       "visualise": 0
+   },
+   "MaxVehSpdLmt2": {
+       "unit": "km\/h",
+       "visualise": 0
+   },
+   "MaxVehSpdLmt3": {
+       "unit": "km\/h",
+       "visualise": 0
+   },
+   "MaxVehSpdLmt4": {
+       "unit": "km\/h",
+       "visualise": 0
+   },
+   "MaxVehSpdLmt5": {
+       "unit": "km\/h",
+       "visualise": 0
+   },
+   "MaxVehSpdLmt6": {
+       "unit": "km\/h",
+       "visualise": 0
+   },
+   "MaxVehSpdLmt7": {
+       "unit": "km\/h",
+       "visualise": 0
+   },
+   "AppliedVehSpdLmt": {
+       "unit": "km\/h",
+       "visualise": 0
+   },
+   "HydrBrakePresCircuit1": {
+       "unit": "MPa",
+       "visualise": 0
+   },
+   "HydrBrakePresCircuit2": {
+       "unit": "MPa",
+       "visualise": 0
+   },
+   "HydrBrakePresWarnStateCircuit1": {
+       "unit": null,
+       "visualise": 0
+   },
+   "HydrBrakePresWarnStateCircuit2": {
+       "unit": null,
+       "visualise": 0
+   },
+   "HydrBrakePresSupplyStateCircuit1": {
+       "unit": null,
+       "visualise": 0
+   },
+   "HydrBrakePresSupplyStateCircuit2": {
+       "unit": null,
+       "visualise": 0
+   },
+   "HydrBrakeSysAudibleWarnCmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "HydrBrakeFluidLvlSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnExhGasTemp-RightManfld": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnExhGasTemp-LeftManfld": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "RunLight": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AlternateBeamHeadLightData": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LoBeamHeadLightData": {
+       "unit": null,
+       "visualise": 0
+   },
+   "HiBeamHeadLightData": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TractorFrontFogLights": {
+       "unit": null,
+       "visualise": 0
+   },
+   "RotatingBeaconLight": {
+       "unit": null,
+       "visualise": 0
+   },
+   "RightTurnSigLights": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LeftTurnSigLights": {
+       "unit": null,
+       "visualise": 0
+   },
+   "BackUpLightandAlarmHorn": {
+       "unit": null,
+       "visualise": 0
+   },
+   "CenterStopLight": {
+       "unit": null,
+       "visualise": 0
+   },
+   "RightStopLight": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LeftStopLight": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ImplementClearanceLight": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TractorClearanceLight": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ImplementMarkerLight": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TractorMarkerLight": {
+       "unit": null,
+       "visualise": 0
+   },
+   "RearFogLights": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TractorUndersideMountedWorkLights": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TractorRearLoMountedWorkLights": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TractorRearHiMountedWorkLights": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TractorSideLoMountedWorkLights": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TractorSideHiMountedWorkLights": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TractorFrontLoMountedWorkLights": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TractorFrontHiMountedWorkLights": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ImplementOEMOption2Light": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ImplementOEMOption1Light": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ImplementRightFacingWorkLight": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ImplementLeftFacingWorkLight": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ImplementRightForwardWorkLight": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ImplementLeftForwardWorkLight": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ImplementRearWorkLight": {
+       "unit": null,
+       "visualise": 0
+   },
+   "RunLightCmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AlternateBeamHeadLightCmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LoBeamHeadLightCmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "HiBeamHeadLightCmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TractorFrontFogLightsCmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "RotatingBeaconLightCmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "RightTurnSigLightsCmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LeftTurnSigLightsCmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "BackUpLightandAlarmHornCmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "CenterStopLightCmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "RightStopLightCmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LeftStopLightCmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ImplementClearanceLightCmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TractorClearanceLightCmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ImplementMarkerLightCmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TractorMarkerLightCmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "RearFogLightCmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TractorUndersideMountedWorkLightsCmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TractorRearLoMountedWorkLightsCmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TractorRearHiMountedWorkLightsCmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TractorSideLoMountedWorkLightsCmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TractorSideHiMountedWorkLightsCmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TractorFrontLoMountedWorkLightsCmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TractorFrontHiMountedWorkLightsCmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ImplementOEMOption2LightCmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ImplementOEMOption1LightCmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ImplementRightFacingWorkLightCmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ImplementLeftFacingWorkLightCmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LightingDataReqCmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ImplementRightForwardWorkLightCmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ImplementLeftForwardWorkLightCmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ImplementRearWorkLightCmd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransCurrRangeDisplayBlankState": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransServiceInd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransReqedRangeDisplayBlankState": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransReqedRangeDisplayFlashState": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransReadyforBrakeRel": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ActiveShiftConsoleInd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransEngnCrankEnbl": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransShiftInhibitInd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransMode4Ind": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransMode3Ind": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransMode2Ind": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransMode1Ind": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransReqedGearFeedback": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransMode5Ind": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransMode6Ind": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransMode7Ind": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransMode8Ind": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransReverseGearShiftInhibitStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransTrqLmt": {
+       "unit": "Nm",
+       "visualise": 0
+   },
+   "RearBlackOutMarkerSel": {
+       "unit": null,
+       "visualise": 0
+   },
+   "FrontBlackOutMarkerLampSel": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ConvoyLampSel": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ConvoyDrivingLampSel": {
+       "unit": null,
+       "visualise": 0
+   },
+   "BlackOutBrake\/StopLampSel": {
+       "unit": null,
+       "visualise": 0
+   },
+   "NightVisionIlluminatorSel": {
+       "unit": null,
+       "visualise": 0
+   },
+   "BlackOutWorkLampSel": {
+       "unit": null,
+       "visualise": 0
+   },
+   "OprsBlackOutIntensitySelion": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnTotalAvgFuelRate": {
+       "unit": "L\/h",
+       "visualise": 0
+   },
+   "EngnTotalAvgFuelEcon": {
+       "unit": "km\/L",
+       "visualise": 0
+   },
+   "Posofdoors": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Ramp\/WheelChairLiftPos": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Stat2ofdoors": {
+       "unit": null,
+       "visualise": 0
+   },
+   "VDCInfoSig": {
+       "unit": null,
+       "visualise": 0
+   },
+   "VDCFullyOperational": {
+       "unit": null,
+       "visualise": 0
+   },
+   "VDCbrakelightrequest": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ROPEngnCtrlactive": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ROPBrakeCtrlactive": {
+       "unit": null,
+       "visualise": 0
+   },
+   "YCEngnCtrlactive": {
+       "unit": null,
+       "visualise": 0
+   },
+   "YCBrakeCtrlactive": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Batt1Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "Batt2Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "ReqedACCDistMode": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AlternatorCurr(HiRange\/Res)": {
+       "unit": "A",
+       "visualise": 0
+   },
+   "NetBattCurr(HiRange\/Res)": {
+       "unit": "A",
+       "visualise": 0
+   },
+   "LoLmtThreshforMaxRPMfromRetrdr": {
+       "unit": "rpm",
+       "visualise": 0
+   },
+   "HiLmtThreshforMinContRPMfromRetrdr": {
+       "unit": "rpm",
+       "visualise": 0
+   },
+   "LoLmtThreshforMaxTrqfromRetrdr": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "HiLmtThreshforMinContTrqfromRetrdr": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "MaxContRetrdrSpd": {
+       "unit": "rpm",
+       "visualise": 0
+   },
+   "MinContRetrdrSpd": {
+       "unit": "rpm",
+       "visualise": 0
+   },
+   "MaxContRetrdrTrq": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "MinContRetrdrTrq": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnLoLmtThreshforMaxRPMfromEngn": {
+       "unit": "rpm",
+       "visualise": 0
+   },
+   "EngnHiLmtThreshforMinContEngnRPM": {
+       "unit": "rpm",
+       "visualise": 0
+   },
+   "EngnLoLmtThreshforMaxTrqfromEngn": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnHiLmtThreshforMinContTrqfromEngn": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnMaxContRPM": {
+       "unit": "rpm",
+       "visualise": 0
+   },
+   "EngnMinContRPM": {
+       "unit": "rpm",
+       "visualise": 0
+   },
+   "EngnMaxContTrq": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnMinContTrq": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "SpecificHeatRatio": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRCatTankLvl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRCatTankTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRCatTankLvl2": {
+       "unit": "m)",
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRCatTankLvlPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRCatReagentTank1TempPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1SCRCatReagentTank1HeaterPrelimFMI": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DamperStiffnessFrontAxle": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "DamperStiffnessRearAxle": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "DamperStiffnessLift\/TagAxle": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "ElectrShockAbsorberCtrlMode-FrontAxle": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ElectrShockAbsorberCtrlMode-RearAxle": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ElectrShockAbsorberCtrlMode-Lift\/TagAxle": {
+       "unit": null,
+       "visualise": 0
+   },
+   "BellowPresFrontAxleLeft": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "BellowPresFrontAxleRight": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "BellowPresRearAxleLeft": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "BellowPresRearAxleRight": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "RelLvlFrontAxleLeft": {
+       "unit": "mm",
+       "visualise": 0
+   },
+   "RelLvlFrontAxleRight": {
+       "unit": "mm",
+       "visualise": 0
+   },
+   "RelLvlRearAxleLeft": {
+       "unit": "mm",
+       "visualise": 0
+   },
+   "RelLvlRearAxleRight": {
+       "unit": "mm",
+       "visualise": 0
+   },
+   "NomLvlFrontAxle": {
+       "unit": null,
+       "visualise": 0
+   },
+   "NomLvlRearAxle": {
+       "unit": null,
+       "visualise": 0
+   },
+   "BelowNomLvlFrontAxle": {
+       "unit": null,
+       "visualise": 0
+   },
+   "BelowNomLvlRearAxle": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AboveNomLvlFrontAxle": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AboveNomLvlRearAxle": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LoeringCtrlModeFrontAxle": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LoeringCtrlModeRearAxle": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LiftingCtrlModeFrontAxle": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LiftingCtrlModeRearAxle": {
+       "unit": null,
+       "visualise": 0
+   },
+   "KneelingInfo": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LvlCtrlMode": {
+       "unit": null,
+       "visualise": 0
+   },
+   "SecurityDevice": {
+       "unit": null,
+       "visualise": 0
+   },
+   "VehMotionInhibit": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DoorRel": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LiftAxle1Pos": {
+       "unit": null,
+       "visualise": 0
+   },
+   "FrontAxleinBumperRange": {
+       "unit": null,
+       "visualise": 0
+   },
+   "RearAxleinBumperRange": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LiftAxle2Pos": {
+       "unit": null,
+       "visualise": 0
+   },
+   "SuspRemCtrl1": {
+       "unit": null,
+       "visualise": 0
+   },
+   "SuspRemcontrol2": {
+       "unit": null,
+       "visualise": 0
+   },
+   "SuspCtrlRefusalInfo": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LaneTrackingStatRightSide": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LaneTrackingStatLeftSide": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LaneDepartureIndicationEnblStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "BattMainSwchHoldState": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxHeaterMaxOutPwr": {
+       "unit": "W",
+       "visualise": 0
+   },
+   "HydrTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "HydrOilFiltRestrictionSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "WinchOilPresSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "HydrOilLvl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnIntakeManfld1AirTemp(HiRes)": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnCoolTemp(HiRes)": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnIntakeValveActuationSysOilTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnChargeAirCoolerOutletTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnOilLvlRemReservoir": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnFuelSupplyPumpInletPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnFuelFilt(suctionside)DiffPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnWasteOilReservoirLvl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnOil-FiltOutletPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnOilPrimingPumpSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnOilPrimingState": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnOilPre-HeatedState": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnCoolPre-heatedState": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnVentilationStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "FuelPumpPrimerStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Drvr1workingstate": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Drvr2workingstate": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Vehmotion": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Drvr1TimeRelatedStates": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Drvrcard,driver1": {
+       "unit": null,
+       "visualise": 0
+   },
+   "VehOverspeed": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Drvr2TimeRelatedStates": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Drvrcard,driver2": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Sysevent": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Handlinginformation": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Tachographperformance": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Dirindicator": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Tachographoutputshaftspeed": {
+       "unit": "rpm",
+       "visualise": 0
+   },
+   "Tachographvehiclespeed": {
+       "unit": "km\/h",
+       "visualise": 0
+   },
+   "AuxHeaterOutCoolTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "AuxHeaterInAirTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "AuxHeaterOutPwrPct": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "AuxHeaterMode": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxHeaterWaterPumpStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "CabVentilation": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnHeatingZone": {
+       "unit": null,
+       "visualise": 0
+   },
+   "CabHeatingZone": {
+       "unit": null,
+       "visualise": 0
+   },
+   "FrontAxle,LeftWheelSpd": {
+       "unit": "km\/h",
+       "visualise": 0
+   },
+   "Frontaxle,rightwheelspeed": {
+       "unit": "km\/h",
+       "visualise": 0
+   },
+   "Rearaxle,leftwheelspeed": {
+       "unit": "km\/h",
+       "visualise": 0
+   },
+   "Rearaxle,rightwheelspeed": {
+       "unit": "km\/h",
+       "visualise": 0
+   },
+   "Spdofforwardvehicle": {
+       "unit": "km\/h",
+       "visualise": 0
+   },
+   "Disttoforwardvehicle": {
+       "unit": "m",
+       "visualise": 0
+   },
+   "AdaptiveCruiseCtrlSetSpd": {
+       "unit": "km\/h",
+       "visualise": 0
+   },
+   "AdaptiveCruiseCtrlMode": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Adaptivecruisecontrolsetdistancemode": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Roadcurvature": {
+       "unit": "1\/km",
+       "visualise": 0
+   },
+   "ACCTargetDetected": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ACCSysShutoffWarn": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ACCDistAlertSig": {
+       "unit": null,
+       "visualise": 0
+   },
+   "PwredVehWeight": {
+       "unit": "kg",
+       "visualise": 0
+   },
+   "GrossCombinationVehWeight": {
+       "unit": "kg",
+       "visualise": 0
+   },
+   "LaserTracerTargetDeviation": {
+       "unit": "mm",
+       "visualise": 0
+   },
+   "LaserTracerVerticalDist": {
+       "unit": "m)",
+       "visualise": 0
+   },
+   "LaserTracerHorizontalDeviation": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "LEDDisplayData#2": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LaserTracerInfo": {
+       "unit": null,
+       "visualise": 0
+   },
+   "BladeDurandDir": {
+       "unit": "sec",
+       "visualise": 0
+   },
+   "BladeCtrlMode": {
+       "unit": null,
+       "visualise": 0
+   },
+   "MastPos": {
+       "unit": "mm",
+       "visualise": 0
+   },
+   "ModifyLvlingSysSetPoint": {
+       "unit": "mm",
+       "visualise": 0
+   },
+   "BladeHeightSetPoint-HiRes": {
+       "unit": "m",
+       "visualise": 0
+   },
+   "LaserStrikeVerticalDeviation": {
+       "unit": "mm",
+       "visualise": 0
+   },
+   "LaserReceiverType": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LaserStrikeDataLatency": {
+       "unit": "s",
+       "visualise": 0
+   },
+   "AbsLaserStrikePos": {
+       "unit": "m)",
+       "visualise": 0
+   },
+   "LEDDisplayData#1": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LEDDisplayModeCtrl": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LEDDisplayDeadbandCtrl": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LEDPatternCtrl": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DisplayDeadbands": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxVacuumPresReading": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "AuxGagePresReading1": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "AuxAbsPresReading": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "TirePresCheckIntvl": {
+       "unit": "mins",
+       "visualise": 0
+   },
+   "SteerChanMode": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Trailer\/tagChanMode": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DrvChanMode": {
+       "unit": null,
+       "visualise": 0
+   },
+   "PCUDrvSolenoidStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "PCUSteerSolenoidStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TirePresSupplySwchStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "PCUDeflateSolenoidStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "PCUCtrlSolenoidStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "PCUSupplySolenoidStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "PCUTrailer,TagorPushSolenoidStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Trailer,TagOrPushChanTirePresTarget": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "DrvChanTirePresTarget": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "SteerChanTirePresTarget": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "Trailer,TagOrPushChanTirePres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "DrvChanTirePres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "SteerChanTirePres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnCyl#1CombTime": {
+       "unit": "ms",
+       "visualise": 0
+   },
+   "EngnCyl#2CombTime": {
+       "unit": "ms",
+       "visualise": 0
+   },
+   "EngnCyl#3CombTime": {
+       "unit": "ms",
+       "visualise": 0
+   },
+   "EngnCyl#4CombTime": {
+       "unit": "ms",
+       "visualise": 0
+   },
+   "EngnCyl#5CombTime": {
+       "unit": "ms",
+       "visualise": 0
+   },
+   "EngnCyl#6CombTime": {
+       "unit": "ms",
+       "visualise": 0
+   },
+   "EngnCyl#7CombTime": {
+       "unit": "ms",
+       "visualise": 0
+   },
+   "EngnCyl#8CombTime": {
+       "unit": "ms",
+       "visualise": 0
+   },
+   "EngnCyl#9CombTime": {
+       "unit": "ms",
+       "visualise": 0
+   },
+   "EngnCyl#10CombTime": {
+       "unit": "ms",
+       "visualise": 0
+   },
+   "EngnCyl#11CombTime": {
+       "unit": "ms",
+       "visualise": 0
+   },
+   "EngnCyl#12CombTime": {
+       "unit": "ms",
+       "visualise": 0
+   },
+   "EngnCyl#13CombTime": {
+       "unit": "ms",
+       "visualise": 0
+   },
+   "EngnCyl#14CombTime": {
+       "unit": "ms",
+       "visualise": 0
+   },
+   "EngnCyl#15CombTime": {
+       "unit": "ms",
+       "visualise": 0
+   },
+   "EngnCyl#16CombTime": {
+       "unit": "ms",
+       "visualise": 0
+   },
+   "EngnCyl#17CombTime": {
+       "unit": "ms",
+       "visualise": 0
+   },
+   "EngnCyl#18CombTime": {
+       "unit": "ms",
+       "visualise": 0
+   },
+   "EngnCyl#19CombTime": {
+       "unit": "ms",
+       "visualise": 0
+   },
+   "EngnCyl#20CombTime": {
+       "unit": "ms",
+       "visualise": 0
+   },
+   "EngnDesiredCombTime": {
+       "unit": "ms",
+       "visualise": 0
+   },
+   "EngnAvgCombTime": {
+       "unit": "ms",
+       "visualise": 0
+   },
+   "EngnFuelFlowRate1": {
+       "unit": "m^3\/h",
+       "visualise": 0
+   },
+   "EngnFuelFlowRate2": {
+       "unit": "m^3\/h",
+       "visualise": 0
+   },
+   "EngnFuelValve1Pos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnFuelValve2Pos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnReqedFuelValve1Pos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnReqedFuelValve2Pos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCyl#1IgnTiming": {
+       "unit": "deg",
+       "visualise": 0
+   },
+   "EngnCyl#2IgnTiming": {
+       "unit": "deg",
+       "visualise": 0
+   },
+   "EngnCyl#3IgnTiming": {
+       "unit": "deg",
+       "visualise": 0
+   },
+   "EngnCyl#4IgnTiming": {
+       "unit": "deg",
+       "visualise": 0
+   },
+   "EngnCyl#5IgnTiming": {
+       "unit": "deg",
+       "visualise": 0
+   },
+   "EngnCyl#6IgnTiming": {
+       "unit": "deg",
+       "visualise": 0
+   },
+   "EngnCyl#7IgnTiming": {
+       "unit": "deg",
+       "visualise": 0
+   },
+   "EngnCyl#8IgnTiming": {
+       "unit": "deg",
+       "visualise": 0
+   },
+   "EngnCyl#9IgnTiming": {
+       "unit": "deg",
+       "visualise": 0
+   },
+   "EngnCyl#10IgnTiming": {
+       "unit": "deg",
+       "visualise": 0
+   },
+   "EngnCyl#11IgnTiming": {
+       "unit": "deg",
+       "visualise": 0
+   },
+   "EngnCyl#12IgnTiming": {
+       "unit": "deg",
+       "visualise": 0
+   },
+   "EngnCyl#13IgnTiming": {
+       "unit": "deg",
+       "visualise": 0
+   },
+   "EngnCyl#14IgnTiming": {
+       "unit": "deg",
+       "visualise": 0
+   },
+   "EngnCyl#15IgnTiming": {
+       "unit": "deg",
+       "visualise": 0
+   },
+   "EngnCyl#16IgnTiming": {
+       "unit": "deg",
+       "visualise": 0
+   },
+   "EngnCyl#17IgnTiming": {
+       "unit": "deg",
+       "visualise": 0
+   },
+   "EngnCyl#18IgnTiming": {
+       "unit": "deg",
+       "visualise": 0
+   },
+   "EngnCyl#19IgnTiming": {
+       "unit": "deg",
+       "visualise": 0
+   },
+   "EngnCyl#20IgnTiming": {
+       "unit": "deg",
+       "visualise": 0
+   },
+   "EngnDesiredIgnTiming#1": {
+       "unit": "deg",
+       "visualise": 0
+   },
+   "EngnDesiredIgnTiming#2": {
+       "unit": "deg",
+       "visualise": 0
+   },
+   "EngnDesiredIgnTiming#3": {
+       "unit": "deg",
+       "visualise": 0
+   },
+   "EngnActualIgnTiming": {
+       "unit": "deg",
+       "visualise": 0
+   },
+   "EngnCyl#1IgnTrnsfrmrSecndOut": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCyl#2IgnTrnsfrmrSecndOut": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCyl#3IgnTrnsfrmrSecndOut": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCyl#4IgnTrnsfrmrSecndOut": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCyl#5IgnTrnsfrmrSecndOut": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCyl#6IgnTrnsfrmrSecndOut": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCyl#7IgnTrnsfrmrSecndOut": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCyl#8IgnTrnsfrmrSecndOut": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCyl#9IgnTrnsfrmrSecndOut": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCyl#10IgnTrnsfrmrSecndOut": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCyl#11IgnTrnsfrmrSecndOut": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCyl#12IgnTrnsfrmrSecndOut": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCyl#13IgnTrnsfrmrSecndOut": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCyl#14IgnTrnsfrmrSecndOut": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCyl#15IgnTrnsfrmrSecndOut": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCyl#16IgnTrnsfrmrSecndOut": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCyl#17IgnTrnsfrmrSecndOut": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCyl#18IgnTrnsfrmrSecndOut": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCyl#19IgnTrnsfrmrSecndOut": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnCyl#20IgnTrnsfrmrSecndOut": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnFuelValve1InletAbsPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnFuelValveDiffPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnAirtoFuelDiffPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnFuelValve1OutletAbsPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "AuxTemp1": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "AuxTemp2": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "AuxPres#1": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "AuxPres#2": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "AuxLvl": {
+       "unit": "m)",
+       "visualise": 0
+   },
+   "RelHumidity": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "BattPotntl\/PwrIn2": {
+       "unit": "V",
+       "visualise": 0
+   },
+   "ECUPwrOutSupplyVlt#1": {
+       "unit": "V",
+       "visualise": 0
+   },
+   "ECUPwrOutSupplyVlt#2": {
+       "unit": "V",
+       "visualise": 0
+   },
+   "ECUPwrOutSupplyVlt#3": {
+       "unit": "V",
+       "visualise": 0
+   },
+   "TimeSinceLastService": {
+       "unit": "hr",
+       "visualise": 0
+   },
+   "EngnExtShutdownAirSupplyPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "NumofEngnTrqHistoryRecords": {
+       "unit": "records",
+       "visualise": 0
+   },
+   "EngnPwr": {
+       "unit": "kW",
+       "visualise": 0
+   },
+   "EngnPeakTrq1": {
+       "unit": "Nm",
+       "visualise": 0
+   },
+   "EngnPeakTrq2": {
+       "unit": "Nm",
+       "visualise": 0
+   },
+   "CalRecordStartMonth": {
+       "unit": "months",
+       "visualise": 0
+   },
+   "EngnFuelLeakage1": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnFuelLeakage2": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnPre-filterOilPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnExhGasPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnFuelRackPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnGasMassFlowRate1": {
+       "unit": "kg\/h",
+       "visualise": 0
+   },
+   "InstEstimatedBrakePwr": {
+       "unit": "kW",
+       "visualise": 0
+   },
+   "ElecLoad": {
+       "unit": "kW",
+       "visualise": 0
+   },
+   "SafetyWireStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnAuxCoolPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnAuxCoolTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "SeaWaterPumpOutletPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnOperationTimeSinceRebuild": {
+       "unit": "s",
+       "visualise": 0
+   },
+   "EngnTurbo1WastegateDrv": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnTurbo2WastegateDrv": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnTurbo3WastegateDrv": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnTurbo4WastegateDrv": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnTurboWastegateActuatorCtrlAirPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnTurbo1TurbineOutletTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnTurbo2TurbineOutletTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnTurbo3TurbineOutletTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnTurbo4TurbineOutletTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnTurbo1TurbineInletTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnTurbo2TurbineInletTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnTurbo3TurbineInletTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnTurbo4TurbineInletTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnTurbo1ComprInletPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnTurbo2ComprInletPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnTurbo3ComprInletPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnTurbo4ComprInletPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnTurbo1ComprInletTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnTurbo2ComprInletTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnTurbo3ComprInletTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnTurbo4ComprInletTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnTurboLubeOilPres2": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnTurbo2Spd": {
+       "unit": "rpm",
+       "visualise": 0
+   },
+   "EngnTurbo3Spd": {
+       "unit": "rpm",
+       "visualise": 0
+   },
+   "EngnTurbo4Spd": {
+       "unit": "rpm",
+       "visualise": 0
+   },
+   "EngnMainBearing9Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnMainBearing10Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnMainBearing11Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnMainBearing5Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnMainBearing6Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnMainBearing7Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnMainBearing8Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnMainBearing1Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnMainBearing2Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnMainBearing3Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnMainBearing4Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnExhGasPort17Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnExhGasPort18Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnExhGasPort19Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnExhGasPort20Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnExhGasPort13Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnExhGasPort14Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnExhGasPort15Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnExhGasPort16Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnExhGasPort9Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnExhGasPort10Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnExhGasPort11Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnExhGasPort12Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnExhGasPort5Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnExhGasPort6Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnExhGasPort7Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnExhGasPort8Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnExhGasPort1Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnExhGasPort2Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnExhGasPort3Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnExhGasPort4Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnOilTemp2": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnECUTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnExhGasRecirculationDiffPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnExhGasRecirculationTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnIntakeManfld2Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnIntakeManfld3Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnIntakeManfld4Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnIntakeManfld5Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnIntakeManfld6Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnTurbo1BoostPres": {
+       "unit": "psi)",
+       "visualise": 0
+   },
+   "EngnTurbo2BoostPres": {
+       "unit": "psi)",
+       "visualise": 0
+   },
+   "EngnTurbo3BoostPres": {
+       "unit": "psi)",
+       "visualise": 0
+   },
+   "EngnTurbo4BoostPres": {
+       "unit": "psi)",
+       "visualise": 0
+   },
+   "EngnAlternatorBearing1Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnAlternatorBearing2Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnAlternatorWinding1Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnAlternatorWinding2Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnAlternatorWinding3Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "ArticulationAngle": {
+       "unit": "deg",
+       "visualise": 0
+   },
+   "EngnDesiredRatedExhOxygen": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnDesiredExhOxygen": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnActualExhOxygen": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnExhGasOxygenSensorFuelingCorr": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnExhGasOxygenSensorClosedLoopOperation": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnGaseousFuelCorrFactor": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnDesiredAbsIntakeManfldPres(TurboBoostLmt)": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnTurboWastegateValvePos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnGasMassFlowSensorFuelingCorr": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "RecommendedGear": {
+       "unit": null,
+       "visualise": 0
+   },
+   "HiestPossibleGear": {
+       "unit": null,
+       "visualise": 0
+   },
+   "LoestPossibleGear": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ClutchLifeRemaining": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "BrakeLiningRemaining,FrontAxle,LeftWheel": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "BrakeLiningRemaining,FrontAxle,RightWheel": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "BrakeLiningRemaining,RearAxle#1,LeftWheel": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "BrakeLiningRemaining,RearAxle#1,RightWheel": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "BrakeLiningRemaining,RearAxle#2,LeftWheel": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "BrakeLiningRemaining,RearAxle#2,RightWheel": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "BrakeLiningRemaining,RearAxle#3,LeftWheel": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "BrakeLiningRemaining,RearAxle#3,RightWheel": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "BrakeApplPresHiRange,FrontAxle,LeftWheel": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "BrakeApplPresHiRange,FrontAxle,RightWheel": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "BrakeApplPresHiRange,RearAxle#1,LeftWheel": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "BrakeApplPresHiRange,RearAxle#1,RightWheel": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "BrakeApplPresHiRange,RearAxle#2,LeftWheel": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "BrakeApplPresHiRange,RearAxle#2,RightWheel": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "BrakeApplPresHiRange,RearAxle#3,LeftWheel": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "BrakeApplPresHiRange,RearAxle#3,RightWheel": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "PneumaticSupplyPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "Prkand\/orTrailerAirPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "ServiceBrakeCircuit1AirPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "ServiceBrakeCircuit2AirPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "AuxEquipmentSupplyPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "AirSuspSupplyPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "AirComprStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TripFuel(Gaseous)": {
+       "unit": "kg",
+       "visualise": 0
+   },
+   "TotalFuelUsed(Gaseous)": {
+       "unit": "kg",
+       "visualise": 0
+   },
+   "TripCruiseTime": {
+       "unit": "hr",
+       "visualise": 0
+   },
+   "TripPTOGovTime": {
+       "unit": "hr",
+       "visualise": 0
+   },
+   "TotalECUDist": {
+       "unit": "km",
+       "visualise": 0
+   },
+   "TotalECURunTime": {
+       "unit": "hr",
+       "visualise": 0
+   },
+   "TotalEngnPTOGovFuelUsed(Gaseous)": {
+       "unit": "kg",
+       "visualise": 0
+   },
+   "TripAvgFuelRate(Gaseous)": {
+       "unit": "kg\/h",
+       "visualise": 0
+   },
+   "EngnFuelSpecificGravity": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TotalEngnPTOGovFuelUsed": {
+       "unit": "L",
+       "visualise": 0
+   },
+   "TripAvgFuelRate": {
+       "unit": "L\/h",
+       "visualise": 0
+   },
+   "TripTimeinVSL": {
+       "unit": "hr",
+       "visualise": 0
+   },
+   "TripTimeinTopGear": {
+       "unit": "hr",
+       "visualise": 0
+   },
+   "TripNumofHotShutdowns": {
+       "unit": "counts",
+       "visualise": 0
+   },
+   "TripNumofIdleShutdowns": {
+       "unit": "counts",
+       "visualise": 0
+   },
+   "TripNumofIdleShutdownOverrides": {
+       "unit": "counts",
+       "visualise": 0
+   },
+   "TripSuddenDecelerations": {
+       "unit": "counts",
+       "visualise": 0
+   },
+   "TripMaxVehSpd": {
+       "unit": "km\/h",
+       "visualise": 0
+   },
+   "TripCruiseDist": {
+       "unit": "km",
+       "visualise": 0
+   },
+   "TripMaxEngnSpd": {
+       "unit": "rpm",
+       "visualise": 0
+   },
+   "TripAvgEngnSpd": {
+       "unit": "rpm",
+       "visualise": 0
+   },
+   "TripDrvAvgLoadFactor": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "TotalDrvAvgLoadFactor": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "TripDrvFuelUsed(Gaseous)": {
+       "unit": "kg",
+       "visualise": 0
+   },
+   "TripPTOGovMovingFuelUsed(Gaseous)": {
+       "unit": "kg",
+       "visualise": 0
+   },
+   "TripDrvFuelUsed": {
+       "unit": "L",
+       "visualise": 0
+   },
+   "TripPTOGovMovingFuelUsed": {
+       "unit": "L",
+       "visualise": 0
+   },
+   "TripDistonVSL": {
+       "unit": "km",
+       "visualise": 0
+   },
+   "TripGearDownDist": {
+       "unit": "km",
+       "visualise": 0
+   },
+   "TripFanOnTime": {
+       "unit": "hr",
+       "visualise": 0
+   },
+   "TripFanOnTimeDuetotheEngnSys": {
+       "unit": "hr",
+       "visualise": 0
+   },
+   "TotalCompressionBrakeDist": {
+       "unit": "km",
+       "visualise": 0
+   },
+   "TripCompressionBrakeDist": {
+       "unit": "km",
+       "visualise": 0
+   },
+   "EstimatedPctFanSpd": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "FanDrvState": {
+       "unit": null,
+       "visualise": 0
+   },
+   "FanSpd": {
+       "unit": "rpm",
+       "visualise": 0
+   },
+   "HydrFanMotorPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "FanDrvBypassCmdStat": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnRatedPwr": {
+       "unit": "kW",
+       "visualise": 0
+   },
+   "EngnRatedSpd": {
+       "unit": "rpm",
+       "visualise": 0
+   },
+   "EngnRotationDir": {
+       "unit": null,
+       "visualise": 0
+   },
+   "CrankAttemptCountonPresentStartAttempt": {
+       "unit": null,
+       "visualise": 0
+   },
+   "FrontAxleSpd": {
+       "unit": "km\/h",
+       "visualise": 0
+   },
+   "RelSpd;FrontAxle,LeftWheel": {
+       "unit": "km\/h",
+       "visualise": 0
+   },
+   "RelSpd;FrontAxle,RightWheel": {
+       "unit": "km\/h",
+       "visualise": 0
+   },
+   "RelSpd;RearAxle#1,LeftWheel": {
+       "unit": "km\/h",
+       "visualise": 0
+   },
+   "RelSpd;RearAxle#1,RightWheel": {
+       "unit": "km\/h",
+       "visualise": 0
+   },
+   "RelSpd;RearAxle#2,LeftWheel": {
+       "unit": "km\/h",
+       "visualise": 0
+   },
+   "RelSpd;RearAxle#2,RightWheel": {
+       "unit": "km\/h",
+       "visualise": 0
+   },
+   "ServiceDist": {
+       "unit": "km",
+       "visualise": 0
+   },
+   "ServiceDelay\/CalendarTimeBased": {
+       "unit": "weeks",
+       "visualise": 0
+   },
+   "ServiceDelay\/OperationalTimeBased": {
+       "unit": "hr",
+       "visualise": 0
+   },
+   "HiResTotalVehDist": {
+       "unit": "km",
+       "visualise": 0
+   },
+   "HiResTripDist": {
+       "unit": "km",
+       "visualise": 0
+   },
+   "TransOutRetrdr": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransHiRangeSenseSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransLoRangeSenseSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransReverseDirSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransNeutralSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransForwardDirSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransSynchronizerClutchValue": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "TransSynchronizerBrakeValue": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "TransShiftFingerGearPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "TransShiftFingerRailPos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "TransShiftFingerNeutralInd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransShiftFingerEngagementInd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransShiftFingerCenterRailInd": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransShiftFingerRailActuator1": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransShiftFingerGearActuator1": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransShiftFingerRailActuator2": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransShiftFingerGearActuator2": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransRangeHiActuator": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransRangeLoActuator": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransSplitterDirectActuator": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransSplitterIndirectActuator": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransClutchActuator": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransLockupClutchActuator": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransDefuelActuator": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransInertiaBrakeActuator": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AlternatorSpd": {
+       "unit": "rpm",
+       "visualise": 0
+   },
+   "Alternator1Stat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Alternator2Stat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Alternator3Stat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Alternator4Stat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#04": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#03": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#02": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#01": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#08": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#07": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#06": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#05": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#12": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#11": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#10": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#09": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#16": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#15": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#14": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/O#13": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxI\/OChan#1": {
+       "unit": "counts",
+       "visualise": 0
+   },
+   "AuxI\/OChan#2": {
+       "unit": "counts",
+       "visualise": 0
+   },
+   "NumofSoftwareIdFields": {
+       "unit": "steps",
+       "visualise": 0
+   },
+   "EngnInjectionCtrlPres": {
+       "unit": "Mpa",
+       "visualise": 0
+   },
+   "EngnInjMeteringRail1Pres": {
+       "unit": "Mpa",
+       "visualise": 0
+   },
+   "EngnInjTimingRail1Pres": {
+       "unit": "Mpa",
+       "visualise": 0
+   },
+   "EngnInjMeteringRail2Pres": {
+       "unit": "Mpa",
+       "visualise": 0
+   },
+   "EngnTotalIdleFuelUsed": {
+       "unit": "L",
+       "visualise": 0
+   },
+   "EngnTotalIdleHours": {
+       "unit": "hr",
+       "visualise": 0
+   },
+   "EngnTurboLubeOilPres1": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnTurbo1Spd": {
+       "unit": "rpm",
+       "visualise": 0
+   },
+   "EngnTurboOilLvlSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnAirStartPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "NomFriction-PctTrq": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Engn'sDesiredOpSpd": {
+       "unit": "rpm",
+       "visualise": 0
+   },
+   "Engn'sDesiredOpSpdAsymmetryAdjustment": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EstimatedEngnParasiticLosses-PctTrq": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Aftrtrmnt1ExhGasMassFlow": {
+       "unit": "bit",
+       "visualise": 0
+   },
+   "Aftrtrmnt1IntakeDewPoint": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt1ExhDewPoint": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2IntakeDewPoint": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Aftrtrmnt2ExhDewPoint": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TripDist": {
+       "unit": "km",
+       "visualise": 0
+   },
+   "TotalVehDist": {
+       "unit": "km",
+       "visualise": 0
+   },
+   "RetrdrType": {
+       "unit": null,
+       "visualise": 0
+   },
+   "RetrdrLoc": {
+       "unit": null,
+       "visualise": 0
+   },
+   "RetrdrCtrlMethod(RetrdrConf)": {
+       "unit": "steps",
+       "visualise": 0
+   },
+   "RetrdrSpdAtIdle,Point1(RetrdrConf)": {
+       "unit": "rpm",
+       "visualise": 0
+   },
+   "PctTrqAtIdle,Point1(RetrdrConf)": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "MaxRetrdrSpd,Point2(RetrdrConf)": {
+       "unit": "rpm",
+       "visualise": 0
+   },
+   "PctTrqAtMaxSpd,Point2(RetrdrConf)": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "NumofReverseGearRatios": {
+       "unit": null,
+       "visualise": 0
+   },
+   "NumofForwardGearRatios": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransGearRatio": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnSpdAtIdle,Point1(EngnConf)": {
+       "unit": "rpm",
+       "visualise": 0
+   },
+   "EngnPctTrqAtIdle,Point1(EngnConf)": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnSpdAtPoint2(EngnConf)": {
+       "unit": "rpm",
+       "visualise": 0
+   },
+   "EngnPctTrqAtPoint2(EngnConf)": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnSpdAtPoint3(EngnConf)": {
+       "unit": "rpm",
+       "visualise": 0
+   },
+   "EngnIdleShutdownhasShutdownEngn": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnIdleShutdownDrvrAlertMode": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnIdleShutdownTmrOverride": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnIdleShutdownTmrState": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnIdleShutdownTmrFunction": {
+       "unit": null,
+       "visualise": 0
+   },
+   "A\/CHiPresFanSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "RefrigerantLoPresSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "RefrigerantHiPresSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnWaittoStartLamp": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnProtSyshasShutdownEngn": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnProtSysApproachingShutdown": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnProtSysTmrOverride": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnProtSysTmrState": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnProtSysConf": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnAlarmAck": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnAlarmOutCmdStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnAirShutoffCmdStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnOverspeedTest": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnAirShutoffStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnTotalHoursofOperation": {
+       "unit": "hr",
+       "visualise": 0
+   },
+   "EngnTotalRevs": {
+       "unit": "r",
+       "visualise": 0
+   },
+   "Secs": {
+       "unit": "s",
+       "visualise": 0
+   },
+   "Mins": {
+       "unit": "mins",
+       "visualise": 0
+   },
+   "Hours": {
+       "unit": "hr",
+       "visualise": 0
+   },
+   "Month": {
+       "unit": "months",
+       "visualise": 0
+   },
+   "Day": {
+       "unit": "days",
+       "visualise": 0
+   },
+   "Year": {
+       "unit": "years",
+       "visualise": 0
+   },
+   "Localminuteoffset": {
+       "unit": "mins",
+       "visualise": 0
+   },
+   "Localhouroffset": {
+       "unit": "hr",
+       "visualise": 0
+   },
+   "TotalVehHours": {
+       "unit": "hr",
+       "visualise": 0
+   },
+   "TotalPwrTakeoffHours": {
+       "unit": "hr",
+       "visualise": 0
+   },
+   "CompassBearing": {
+       "unit": "deg",
+       "visualise": 0
+   },
+   "Navigation-BasedVehSpd": {
+       "unit": "km\/h",
+       "visualise": 0
+   },
+   "Pitch": {
+       "unit": "deg",
+       "visualise": 0
+   },
+   "Altitude": {
+       "unit": "m",
+       "visualise": 0
+   },
+   "EngnTripFuel": {
+       "unit": "L",
+       "visualise": 0
+   },
+   "EngnTotalFuelUsed": {
+       "unit": "L",
+       "visualise": 0
+   },
+   "AxleWeight": {
+       "unit": "kg",
+       "visualise": 0
+   },
+   "TrailerWeight": {
+       "unit": "kg",
+       "visualise": 0
+   },
+   "CargoWeight": {
+       "unit": "kg",
+       "visualise": 0
+   },
+   "Make": {
+       "unit": "byte",
+       "visualise": 0
+   },
+   "MaxVehSpdLmt": {
+       "unit": "km\/h",
+       "visualise": 0
+   },
+   "CruiseCtrlHiSetLmtSpd": {
+       "unit": "km\/h",
+       "visualise": 0
+   },
+   "CruiseCtrlLoSetLmtSpd": {
+       "unit": "km\/h",
+       "visualise": 0
+   },
+   "EngnCoolTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnFuelTemp1": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnOilTemp1": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnTurboOilTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnIntrclrTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnIntrclrT-statOpening": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnFuelDelvPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnExtCrankcaseBlow-byPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnOilLvl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnOilPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnCrankcasePres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnCoolPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnCoolLvl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "PwrTakeoffOilTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "PwrTakeoffSpd": {
+       "unit": "rpm",
+       "visualise": 0
+   },
+   "PwrTakeoffSetSpd": {
+       "unit": "rpm",
+       "visualise": 0
+   },
+   "EngnPTOGovEnblSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnRemPTOGovPreprogSpdCtrlSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnRemPTOGovVarSpdCtrlSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnPTOGovSetSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnPTOGovCoast\/DecelSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnPTOGovResumeSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnPTOGovAccelSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "OprEngnPTOGovMemSelSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "RemPTOGovPreprogSpdCtrlSwch#2": {
+       "unit": null,
+       "visualise": 0
+   },
+   "AuxInIgnoreSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TwoSpdAxleSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "PrkBrakeSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "CruiseCtrlPauseSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ParkBrakeRelInhibitReq": {
+       "unit": null,
+       "visualise": 0
+   },
+   "Wheel-BasedVehSpd": {
+       "unit": "km\/h",
+       "visualise": 0
+   },
+   "CruiseCtrlActive": {
+       "unit": null,
+       "visualise": 0
+   },
+   "CruiseCtrlEnblSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "BrakeSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ClutchSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "CruiseCtrlSetSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "CruiseCtrlCoast(Decel)Swch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "CruiseCtrlResumeSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "CruiseCtrlAccelSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "CruiseCtrlSetSpd": {
+       "unit": "km\/h",
+       "visualise": 0
+   },
+   "PTOGovState": {
+       "unit": null,
+       "visualise": 0
+   },
+   "CruiseCtrlStates": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnIdleIncSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnIdleDecSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnTestModeSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnShutdownOverrideSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnFuelRate": {
+       "unit": "L\/h",
+       "visualise": 0
+   },
+   "EngnInstFuelEcon": {
+       "unit": "km\/L",
+       "visualise": 0
+   },
+   "EngnAvgFuelEcon": {
+       "unit": "km\/L",
+       "visualise": 0
+   },
+   "EngnThrottlePos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnThrottle2Pos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "Latitude": {
+       "unit": "deg",
+       "visualise": 0
+   },
+   "Longitude": {
+       "unit": "deg",
+       "visualise": 0
+   },
+   "TirePres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "TireTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "CTIWheelSensorStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "CTITireStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "CTIWheelEndElecFault": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TireAirLeakageRate": {
+       "unit": "Pa\/s",
+       "visualise": 0
+   },
+   "TirePresThreshDet": {
+       "unit": null,
+       "visualise": 0
+   },
+   "BaroPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "CabInteriorTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "AmbAirTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnAirInletTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "RoadSurfaceTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnDieselPartFiltInletPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnIntakeManfld#1Pres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnIntakeManfld1Temp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnAirInletPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnAirFilt1DiffPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnExhGasTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "EngnCoolFiltDiffPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "NetBattCurr": {
+       "unit": "A",
+       "visualise": 0
+   },
+   "AlternatorCurr": {
+       "unit": "A",
+       "visualise": 0
+   },
+   "ChargingSysPotntl(Vlt)": {
+       "unit": "V",
+       "visualise": 0
+   },
+   "BattPotntl\/PwrIn1": {
+       "unit": "V",
+       "visualise": 0
+   },
+   "KeyswitchBattPotntl": {
+       "unit": "V",
+       "visualise": 0
+   },
+   "ClutchPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "TransOilLvl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "TransFiltDiffPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "TransOilPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "TransOilTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "TransOilLvlHi\/Lo": {
+       "unit": "L",
+       "visualise": 0
+   },
+   "TransOilLvlCountdownTmr": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransOilLvlMeasStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "SteerAxleTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "DrvAxleLoc": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DrvAxleLiftAirPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "DrvAxleTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "DrvAxleLubePres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "SteerAxleLubePres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "BrakeApplPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "BrakePrimPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "BrakeSecndPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "PrkBrakeActuator": {
+       "unit": null,
+       "visualise": 0
+   },
+   "PrkBrakeRedWarnSig": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ParkBrakeRelInhibitStat": {
+       "unit": null,
+       "visualise": 0
+   },
+   "HydrRetrdrPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "HydrRetrdrOilTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "WasherFluidLvl": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "FuelLvl1": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnFuelFiltDiffPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "EngnOilFiltDiffPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "CargoAmbTemp": {
+       "unit": "C",
+       "visualise": 0
+   },
+   "FuelLvl2": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnBlowerBypassValvePos": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "EngnGasSupplyPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "AuxPumpPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "WaterInFuelInd": {
+       "unit": null,
+       "visualise": 0
+   }
+}

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <title>J1939 config</title>
+  </head>
+  <body>
+    <h1>J1939 Sensors</h1>
+    <button onclick="download_json()"> Finished </button>
+    <img src="" id="rainbow" width="480" />
+    <script>
+
+        var data = $.getJSON("J1939_config.json");
+
+        $.getJSON("J1939_config.json", (data) => {
+            console.log(data);
+
+            var items = [];
+            $.each(data, (key) => {
+                items.push( `<li> <input type='checkbox' onclick="debug(this)" id='` + key + "'>" + key + "</li>" );
+            });
+
+            $( "<ul/>", {
+                "class": "my-new-list",
+                html: items.join( "" )
+            }).appendTo( "body" );
+        })
+
+        function debug(el){
+            // need to check if element exists
+            if (data.responseJSON[el.id].visualise == 1){
+                data.responseJSON[el.id].visualise = 0;
+            } else {
+              data.responseJSON[el.id].visualise = 1;
+            }
+
+            console.log(el.id);
+
+            console.log(data.responseJSON[el.id].visualise);
+        }
+
+        function download_json(){
+            var dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(data.responseJSON));
+            var downloadAnchorNode = document.createElement('a');
+            downloadAnchorNode.setAttribute("href",     dataStr);
+            downloadAnchorNode.setAttribute("download", "J1939_refined_for_dylan.json");
+            document.body.appendChild(downloadAnchorNode); // required for firefox
+            downloadAnchorNode.click();
+            downloadAnchorNode.remove();
+        }
+    </script>
+  </body>
+</html>

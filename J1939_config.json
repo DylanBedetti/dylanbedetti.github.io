@@ -1,0 +1,190 @@
+{
+   "EngnOverrideCtrlMode": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnReqedSpdCtrlConds": {
+       "unit": null,
+       "visualise": 0
+   },
+   "OverrideCtrlModePriority": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnReqedSpd\/SpdLmt": {
+       "unit": "rpm",
+       "visualise": 0
+   },
+   "EngnReqedTrq\/TrqLmt": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "TSC1TransRate": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TSC1CtrlPurpose": {
+       "unit": null,
+       "visualise": 0
+   },
+   "EngnReqedTrq-HiRes": {
+       "unit": null,
+       "visualise": 0
+   },
+   "MsgCnt": {
+       "unit": null,
+       "visualise": 0
+   },
+   "MsgChecksum": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransGearShiftInhibitReq": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransTrqConverterLockupDisableReq": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DisengageDrvlineReq": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransReverseGearShiftInhibitReq": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ReqedPctClutchSlip": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "TransReqedGear": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DisengageDiffLockReq-FrontAxle1": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DisengageDiffLockReq-FrontAxle2": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DisengageDiffLockReq-RearAxle1": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DisengageDiffLockReq-RearAxle2": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DisengageDiffLockReq-Central": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DisengageDiffLockReq-CentralFront": {
+       "unit": null,
+       "visualise": 0
+   },
+   "DisengageDiffLockReq-CentralRear": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransMode1": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransMode2": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransMode3": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransMode4": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransReqedLaunchGear": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransShiftSelDisplayModeSwch": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransMode5": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransMode6": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransMode7": {
+       "unit": null,
+       "visualise": 0
+   },
+   "TransMode8": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ExtAccelerationDemand": {
+       "unit": "m\/s²",
+       "visualise": 0
+   },
+   "XBREBIMode": {
+       "unit": null,
+       "visualise": 0
+   },
+   "XBRPriority": {
+       "unit": null,
+       "visualise": 0
+   },
+   "XBRCtrlMode": {
+       "unit": null,
+       "visualise": 0
+   },
+   "XBRurgency": {
+       "unit": "%",
+       "visualise": 0
+   },
+   "XBRMsgCnt": {
+       "unit": null,
+       "visualise": 0
+   },
+   "XBRMsgChecksum": {
+       "unit": null,
+       "visualise": 0
+   },
+   "ValveLoadSensePres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "ValvePilotPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "ValveAssemblyLoadsensePres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "ValveAssemblySupplyPres": {
+       "unit": "kPa",
+       "visualise": 0
+   },
+   "AuxI\/OChan#6": {
+       "unit": "counts",
+       "visualise": 0
+   },
+   "AuxI\/OChan#5": {
+       "unit": "counts",
+       "visualise": 0
+   },
+   "AuxI\/OChan#4": {
+       "unit": "counts",
+       "visualise": 0
+   }
+}
