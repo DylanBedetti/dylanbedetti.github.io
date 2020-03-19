@@ -5,22 +5,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <title>J1939 config</title>
   </head>
   <body>
-    <h1>J1939 Sensors</h1>
-    <button onclick="download_json()"> Finished </button>
-    <img src="" id="rainbow" width="480" />
+    <div class="text-center"> 
+      <h1 class="font-weight-bold">J1939 Sensors</h1>
+      <button class="btn btn-success" onclick="download_json()"> Finished </button>
+    </div>
+
     <script>
 
         var data = $.getJSON("J1939_config_complete.json");
 
         $.getJSON("J1939_config_complete.json", (data) => {
-            console.log(data);
+            // console.log(data);
 
             var items = [];
             $.each(data, (key) => {
-                items.push( `<li> <input type='checkbox' onclick="debug(this)" id='` + key + "'>" + key + "</li>" );
+                items.push( `<li class='list-group-item'> <input class='cbox' type='checkbox' onclick="debug(this)" id='` + key + "'>" + key + "</li>" );
             });
 
             $( "<ul/>", {
@@ -52,5 +55,15 @@
             downloadAnchorNode.remove();
         }
     </script>
+
+    <style>
+      .cbox {
+        width : 100px;
+      }
+      input[type=checkbox] {
+          transform: scale(2);
+      }
+    </style> 
+
   </body>
 </html>
