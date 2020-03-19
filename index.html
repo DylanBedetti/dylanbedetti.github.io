@@ -9,60 +9,88 @@
     <title>J1939 config</title>
   </head>
   <body>
+    <div class="header sticky" id="myHeader">
     <div class="text-center"> 
       <h1 class="font-weight-bold">J1939 Sensors</h1>
-      <button class="btn btn-success" onclick="download_json()"> Finished </button>
     </div>
 
+    <div class="container container-table">
+      <div class="row vertical-center-row">
+
+        <div class="text-center col-md-6 col-md-offset-6"> 
+          <button class="btn btn-success" onclick="download_json()"> Finished </button>
+        </div>
+
+        <div class="text-center col-md-6 col-md-offset-6 font-weight-bold" id="count" >Total: 0</div>
+
+      </div>
+    </div>
+  </div>
+
+
     <script>
+      var data = $.getJSON("J1939_config_complete.json");
+      var count = 0;
 
-        var data = $.getJSON("J1939_config_complete.json");
+      function download_json(){
+          var dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(data.responseJSON));
+          var downloadAnchorNode = document.createElement('a');
+          downloadAnchorNode.setAttribute("href",     dataStr);
+          downloadAnchorNode.setAttribute("download", "J1939_refined_for_dylan.json");
+          document.body.appendChild(downloadAnchorNode); // required for firefox
+          downloadAnchorNode.click();
+          downloadAnchorNode.remove();
+      }
 
-        $.getJSON("J1939_config_complete.json", (data) => {
-            // console.log(data);
-
+      $.getJSON("J1939_config_complete.json", (data) => {
             var items = [];
             $.each(data, (key) => {
-                items.push( `<li class='list-group-item'> <input class='cbox' type='checkbox' onclick="debug(this)" id='` + key + "'>" + key + "</li>" );
+                items.push( `<li class='list-group-item'> <input class='cbox' type='checkbox' onclick="update_JSON(this)" id='` + key + "'>" + key + "</li>" );
             });
 
             $( "<ul/>", {
                 "class": "my-new-list",
                 html: items.join( "" )
             }).appendTo( "body" );
+        });
+
+      function update_JSON(el){
+          if (data.responseJSON[el.id].visualise == 1){
+              data.responseJSON[el.id].visualise = 0;
+          } else {
+            data.responseJSON[el.id].visualise = 1;
+          }
+      }
+
+
+
+      $(function(){
+        $(document).on('change', 'input:checkbox', function() {
+          (this.checked) ? count += 1 : count -= 1;
+          document.getElementById('count').innerText = "Total: " + count;
         })
+      })
 
-        function debug(el){
-            // need to check if element exists
-            if (data.responseJSON[el.id].visualise == 1){
-                data.responseJSON[el.id].visualise = 0;
-            } else {
-              data.responseJSON[el.id].visualise = 1;
-            }
+  //     $(window).scroll(function() {    // this will work when your window scrolled.
+	// 	var height = $(window).scrollTop();  //getting the scrolling height of window
+	// 	if(height  > 100) {
+	// 		$(".header").css({"position": "fixed"});
+	// 	} else{
+	// 		$(".header").css({"position": "relative"});
+	// 	}
+	// });
 
-            console.log(el.id);
-
-            console.log(data.responseJSON[el.id].visualise);
-        }
-
-        function download_json(){
-            var dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(data.responseJSON));
-            var downloadAnchorNode = document.createElement('a');
-            downloadAnchorNode.setAttribute("href",     dataStr);
-            downloadAnchorNode.setAttribute("download", "J1939_refined_for_dylan.json");
-            document.body.appendChild(downloadAnchorNode); // required for firefox
-            downloadAnchorNode.click();
-            downloadAnchorNode.remove();
-        }
     </script>
 
     <style>
       .cbox {
         width : 100px;
       }
+
       input[type=checkbox] {
           transform: scale(2);
       }
+
     </style> 
 
   </body>
