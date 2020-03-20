@@ -72,12 +72,10 @@
       function update_JSON(el){
           if (data.responseJSON[el.id].visualise == 1){
             data.responseJSON[el.id].visualise = 0;
-            document.getElementById(el.id).parentNode.classList.remove('active');
-            document.getElementById(el.id).parentNode.classList.add('blink_me');
+            document.getElementById(el.id).parentNode.classList.toggle('active');
           } else {
             data.responseJSON[el.id].visualise = 1;
-            document.getElementById(el.id).parentNode.classList.add('active');
-            document.getElementById(el.id).parentNode.classList.remove('blink_me');
+            document.getElementById(el.id).parentNode.classList.toggle('active');
           }
       }
 
@@ -86,6 +84,15 @@
           (this.checked) ? count += 1 : count -= 1;
           document.getElementById('count').innerText = "Total: " + count;
         })
+
+        // $(document).on('click', '.list-group-item',function (e) {
+        //   console.log($(this));
+        //   console.log($(this)[0].innerText + ': ' + data.responseJSON[$(this)[0].innerText].visualise)
+
+        //   $(this).toggleClass('active');
+        //   // $(this)[0].childNodes[1].click();
+          
+        // })
 
       })
 
