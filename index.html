@@ -7,26 +7,41 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <title>J1939 config</title>
+    <style>
+      .cbox {
+        width : 100px;
+      }
+
+      input[type=checkbox] {
+          transform: scale(2);
+      }
+
+    </style> 
   </head>
   <body>
     <div class="header sticky" id="myHeader">
-    <div class="text-center"> 
-      <h1 class="font-weight-bold">J1939 Sensors</h1>
-    </div>
+      <div class="text-center"> 
+        <h1 class="font-weight-bold">J1939 Sensors</h1>
+      </div>
 
-    <div class="container container-table">
-      <div class="row vertical-center-row">
+      <div class="container container-table">
+        <div class="row vertical-center-row">
 
-        <div class="text-center col-md-6 col-md-offset-6"> 
-          <button class="btn btn-success" onclick="download_json()"> Finished </button>
+          <div class="text-center col-md-6 col-md-offset-6"> 
+            <button class="btn btn-success" onclick="download_json()"> FINISHED </button>
+          </div>
+
+          <div class="text-center col-md-6 col-md-offset-6 font-weight-bold" id="count" >Total: 0</div>
+
         </div>
-
-        <div class="text-center col-md-6 col-md-offset-6 font-weight-bold" id="count" >Total: 0</div>
-
       </div>
     </div>
-  </div>
 
+    <br>
+
+    <!-- <div>
+      This is a test
+    </div> -->
 
     <script>
       var data = $.getJSON("J1939_config_complete.json");
@@ -56,42 +71,33 @@
 
       function update_JSON(el){
           if (data.responseJSON[el.id].visualise == 1){
-              data.responseJSON[el.id].visualise = 0;
+            data.responseJSON[el.id].visualise = 0;
+            document.getElementById(el.id).parentNode.classList.remove('active');
+            document.getElementById(el.id).parentNode.classList.add('blink_me');
           } else {
             data.responseJSON[el.id].visualise = 1;
+            document.getElementById(el.id).parentNode.classList.add('active');
+            document.getElementById(el.id).parentNode.classList.remove('blink_me');
           }
       }
-
-
 
       $(function(){
         $(document).on('change', 'input:checkbox', function() {
           (this.checked) ? count += 1 : count -= 1;
           document.getElementById('count').innerText = "Total: " + count;
         })
+
       })
 
-  //     $(window).scroll(function() {    // this will work when your window scrolled.
-	// 	var height = $(window).scrollTop();  //getting the scrolling height of window
-	// 	if(height  > 100) {
-	// 		$(".header").css({"position": "fixed"});
-	// 	} else{
-	// 		$(".header").css({"position": "relative"});
-	// 	}
-	// });
+      // $(window).scroll(function() {    // this will work when your window scrolled.
+      //   var height = $(window).scrollTop();  //getting the scrolling height of window
+      //   if(height  > 100) {
+      //     $(".header").css({"position": "fixed"});
+      //   } else{
+      //     $(".header").css({"position": "relative"});
+      //   }
+      // });
 
     </script>
-
-    <style>
-      .cbox {
-        width : 100px;
-      }
-
-      input[type=checkbox] {
-          transform: scale(2);
-      }
-
-    </style> 
-
   </body>
 </html>
