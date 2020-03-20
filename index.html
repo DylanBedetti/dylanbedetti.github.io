@@ -60,7 +60,7 @@
       $.getJSON("J1939_config_complete.json", (data) => {
             var items = [];
             $.each(data, (key) => {
-                items.push( `<li class='list-group-item'> <input class='cbox' type='checkbox' onclick="update_JSON(this)" id='` + key + "'>" + key + "</li>" );
+                items.push( `<li class='list-group-item list-group-item-action'> <input class='cbox' type='checkbox' onclick="update_JSON(this)" id='` + key + "'>" + key + "</li>" );
             });
 
             $( "<ul/>", {
