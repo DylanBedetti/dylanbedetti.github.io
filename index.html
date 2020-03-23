@@ -31,7 +31,7 @@
             <button class="btn btn-success" onclick="download_json()"> FINISHED </button>
           </div>
 
-          <div class="text-center col-md-6 col-md-offset-6 font-weight-bold" id="count" >Total: 0</div>
+          <div class="text-center col-md-6 col-md-offset-6 font-weight-bold" id="count" >Total Selected: 0</div>
 
         </div>
       </div>
@@ -68,8 +68,8 @@
                 }
             });
 
-            document.getElementById('count').innerText = "Total: " + count;
-            
+            document.getElementById('count').innerText = "Total Selected: " + count;
+
             $( "<ul/>", {
                 "class": "my-new-list",
                 html: items.join( "" )
@@ -91,7 +91,7 @@
       $(function(){
         $(document).on('change', 'input:checkbox', function() {
           (this.checked) ? count += 1 : count -= 1;
-          document.getElementById('count').innerText = "Total: " + count;
+          document.getElementById('count').innerText = "Total Selected: " + count;
         })
 
         // $(document).on('click', '.list-group-item',function (e) {
