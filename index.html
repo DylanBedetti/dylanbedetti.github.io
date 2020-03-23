@@ -44,7 +44,7 @@
     </div> -->
 
     <script>
-      var data = $.getJSON("J1939_config_complete.json");
+      var data = $.getJSON("J1939_refined_1.json");
       var count = 0;
 
       function download_json(){
@@ -57,17 +57,26 @@
           downloadAnchorNode.remove();
       }
 
-      $.getJSON("J1939_config_complete.json", (data) => {
+      $.getJSON("J1939_refined_1.json", (data) => {
             var items = [];
             $.each(data, (key) => {
-                items.push( `<li class='list-group-item list-group-item-action'> <input class='cbox' type='checkbox' onclick="update_JSON(this)" id='` + key + "'>" + key + "</li>" );
+                if (data[key].visualise) {
+                  items.push( `<li class='list-group-item list-group-item-action active'> <input checked class='cbox' type='checkbox' onclick="update_JSON(this)" id='` + key + "'>" + key + "</li>" );
+                  count += 1;
+                } else {
+                  items.push( `<li class='list-group-item list-group-item-action'> <input class='cbox' type='checkbox' onclick="update_JSON(this)" id='` + key + "'>" + key + "</li>" );
+                }
             });
 
+            document.getElementById('count').innerText = "Total: " + count;
+            
             $( "<ul/>", {
                 "class": "my-new-list",
                 html: items.join( "" )
             }).appendTo( "body" );
         });
+
+
 
       function update_JSON(el){
           if (data.responseJSON[el.id].visualise == 1){
